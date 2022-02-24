@@ -1,0 +1,1185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Baptism discovered plainly &amp; faithfully according to the word of God. Wherein is set forth the glorious pattern of our blessed saviour Jesus Christ, the pattern of all believers in his subjection to baptism. Together, with the example of thousands who were baptized after they believed. By John Norcott, late servant of Jesus Christ, and of his church. The third edition, corrected by Will. Kiffin, and Rich. Claridge. With an appendix by another hand.</title>
+            <author>Norcott, John, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52394</idno>
+            <idno type="STC">Wing N1227A</idno>
+            <idno type="STC">ESTC R213780</idno>
+            <idno type="EEBO-CITATION">99826070</idno>
+            <idno type="PROQUEST">99826070</idno>
+            <idno type="VID">30462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2213:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Baptism discovered plainly &amp; faithfully according to the word of God. Wherein is set forth the glorious pattern of our blessed saviour Jesus Christ, the pattern of all believers in his subjection to baptism. Together, with the example of thousands who were baptized after they believed. By John Norcott, late servant of Jesus Christ, and of his church. The third edition, corrected by Will. Kiffin, and Rich. Claridge. With an appendix by another hand.</title>
+                  <author>Norcott, John, d. 1676.</author>
+                  <author>Claridge, Richard, 1649-1723.</author>
+                  <author>Kiffin, William, 1649-1723.</author>
+               </titleStmt>
+               <extent>[10], 61, [1] p., [1] leaf of plates   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Rotterdam, and now re-printed at London, by the assigns of Widow Norcott, and sold by Will. Marshal at the Bible in Newgate street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Gathered in 6's.</note>
+                  <note>Ldw Copy lacks plate.</note>
+                  <note>Reproduction of the original in the Dr. Williams' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30462:1"/>
+            <pb facs="tcp:30462:1"/>
+            <p>BAPTISM <hi>Diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>overed Plainly &amp; Faithfully,</hi> According to the WORD of <hi>GOD.</hi>
+            </p>
+            <p>WHEREIN Is ſet forth the Glorious Pattern of Our Bleſſed Saviour JESUS Chriſt, the Pattern of all Believers in his Subjection to Baptiſm. Together, with the Example of Thouſands who were Baptized after they Believed.</p>
+            <p>By <hi>JOHN NORCOTT.</hi> Late Servant of Jeſus Chriſt, and of his Church.</p>
+            <p>The Third Edition, Corrected by <hi>Will. Kiffin,</hi> and <hi>Rich. Claridge.</hi>
+            </p>
+            <p>With an Appendix by another Hand.</p>
+            <q>
+               <bibl>
+                  <hi>Jer. 6.4.</hi>
+               </bibl> Ask for the Old and the Good Way, and walk therein, &amp; you ſhall find reſt for your ſouls.</q>
+            <q>
+               <bibl>
+                  <hi>Iſa. 30.21.</hi>
+               </bibl> This is the Way, walk in it.</q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 11.1.</hi>
+               </bibl> Be ye followers of me, as I am of Christ.</q>
+            <q>
+               <bibl>
+                  <hi>Mat. 3.20.</hi>
+               </bibl> And when Jeſus was Baptized or dipt, he came up out of the Water.</q>
+            <q>
+               <bibl>
+                  <hi>Luc. 7.30.</hi>
+               </bibl> But the Phariſees and Lawyers re<g ref="char:EOLhyphen"/>jected the Counſel of God againſt themſelves, not being Baptized or dipt.</q>
+            <p>Printed at <hi>Rotterdam,</hi> and now Re-printed at <hi>London,</hi> by the Aſſigns of Widow <hi>Norcott,</hi> and Sold by <hi>Will. Marſhal</hi> at the Bible in <hi>Newgate-ſtreet,</hi> 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:30462:2" rendition="simple:additions"/>
+            <pb facs="tcp:30462:2"/>
+            <head>To All that Love the <hi>LORD JES<g ref="char:V">Ʋ</g>S CHRIST,</hi> And His Holy Ordinances in the Truth, Grace, Mercy, and Peace be Multiplyed.</head>
+            <opener>
+               <salute>Dearly Beloved!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S the Lord Jeſus Chriſt is moſt pretious to your Souls, his Name being as <hi>Oyntment poured forth,</hi> and His <hi>Love better than Wine,</hi> Song 1.2, 3. So hath every Truth of his, a due Value and Eſteem with you. Whatſoever hath the Di<g ref="char:EOLhyphen"/>vine Impreſs upon it, ye readily em<g ref="char:EOLhyphen"/>brace;
+<pb facs="tcp:30462:3"/>
+but not that, which is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Tradition</hi> of Man. Hence it is, that ye are for a <hi>Church of Chriſts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Erection,</hi> for a <hi>Ministry of his own Cal<g ref="char:EOLhyphen"/>ling,</hi> and for <hi>Ordinances of his own Ap<g ref="char:EOLhyphen"/>pointing.</hi> 'Tis both your Deſire and Endeavour to follow Chriſt fully, and therefore cannot admit of any thing in Doctrine, or Worſhip, that is not exactly conſonant to his revealed will. Ye are ſo tender of Chriſt's Honour, which ſhines in all his Commands, that ye cannot deviate <hi>knowingly</hi> the leaſt tittle from any one of them. <hi>O what an Awe Chriſt</hi>'s <hi>Authority car<g ref="char:EOLhyphen"/>rys with it!</hi> Ye are the ſheep that hear his Voice, the ſervants that do his will, and the People that are o<g ref="char:EOLhyphen"/>bedient in the Day of his Power. <hi>Bleſſed are ye that make his word your Rule, and reſolvedly do practiſe accor<g ref="char:EOLhyphen"/>ding thereunto!</hi>
+            </p>
+            <p>The Author of this Short and Plain Diſcourſe, was a True Lover of our Lord Jeſus, and his Holy Ap<g ref="char:EOLhyphen"/>pointments, he Steer'd his whole
+<pb facs="tcp:30462:3"/>
+courſe, by the Compaſs of the Word, making Scripture-Precept, or Exam<g ref="char:EOLhyphen"/>ple, his conſtant Rule in Matters of Religion: Other Mens Opinions or Interpretations were not the Stan<g ref="char:EOLhyphen"/>dard by which he went; but through the Aſſiſtance of the Holy Spirit, he labour'd to find out what the Lord himſelf had ſaid in his Word. And therefore throughout this Little Book, he ſtill keeps cloſe to the Scriptures, Vouching no Authority for what he delivers, but from thence.</p>
+            <p>What Approbation this Piece hath found, may appear from hence; that ſince the Firſt Edition of it here in <hi>England,</hi> it hath been Reprinted in <hi>Holland,</hi> was alſo lately Tranſlated into <hi>Welſh,</hi> and now growing ſcarce, and much asked for, the Bookſeller hath been Adviſed to give it ano<g ref="char:EOLhyphen"/>ther Impreſſion. In which there are few material Alterations or Additi<g ref="char:EOLhyphen"/>ons, the Author's own Phraſe, and Method being generally preſerved.</p>
+            <p>
+               <pb facs="tcp:30462:4"/>The Lord, who is able to <hi>give ſeed to the Sower,</hi> and <hi>to bleſs the ſeed Sown,</hi> Proſper this Plain Diſ<g ref="char:EOLhyphen"/>courſe to every ſoul that ſhall read it, which is the hearty Deſire of,</p>
+            <closer>
+               <signed>
+                  <hi>Yours in the Lord, <hi>Will. Kiffin, Rich. Claridge.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:30462:4"/>
+            <head>To his Truly Beloved Friends and Brethren in and about <hi>Wapping,</hi> who Love our Lord JESUS in Sincerity, Children of one Father, Partakers of the Glorious Spirit of Grace.</head>
+            <opener>
+               <salute>Beloved Brethren,</salute>
+            </opener>
+            <p>IT was <hi>Joſephs</hi> Lot to be ſepa<g ref="char:EOLhyphen"/>rated from his Brethren, but God meant it for good; tho' it was not for the preſent ſeen, yet in due time it appeared <hi>Joſephs</hi> Dreams were fulfilled; and tho' the Archers ſhot ſorely at him, and grieved him, yet his Bow abode in ſtrength: Oh how good it is to be upright with the Lord! It is one of the ſad evils of the Times, <hi>Brethren ſhoot at Brethren:</hi> But this will be a Mercy
+<pb facs="tcp:30462:5"/>
+indeed, if all our Aim might <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to enjoy, and be conformable to Chriſt one part of Conformity to our Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus, is Obedience to the Preciou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ordinance of <hi>Baptiſm,</hi> judging yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are ſuch as preſs after Chriſt you Head, together with a Teſtimonial of my unfeigned Love to you, I have preſented theſe few Thoughts to your ſerious Conſideration. I have read of Two Loving Friends, who having ſpent a great part of the day in a matter of Difference between them, could not be reconciled, and ſo parted; One of them bethinking himſelf of that Text, <hi>Eph. 4.26.</hi> ran to the other, ſaying, <hi>The Sun is going down,</hi> by which they were both im<g ref="char:EOLhyphen"/>mediately reconciled. My Brethren, our Sun is going down, Eternity is
+<pb facs="tcp:30462:5"/>
+upon us, and ſhall we not conſider the Work we have to do for the Lord? I beſeech you be like the No<g ref="char:EOLhyphen"/>ble <hi>Bereans,</hi> ſearch whether theſe things be ſo; and if you find theſe things not mine, but the Lords, then give him the glory due to his Name. Beloved, as I have, ſo I ſhall yet appeal in the Ears of the Lord of Sabbaoth, like <hi>Elijah; Lord God of</hi> Abraham, Iſaac, <hi>and of</hi> Iſrael, <hi>let it be ſeen this day that thou art God in</hi> Iſrael, <hi>and that I am thy ſervant, and that I have done all theſe things at thy Word, 1</hi> Kings <hi>18.36.</hi> Now Lord let Fire come down from Heaven on this Sacrifice, that may drink up all the waters of ſtrife: And that you may all cry, <hi>The Lord
+<pb facs="tcp:30462:6"/>
+he is God, the Lord he is God ver. 39.</hi> Which is the unfeigned deſire of him that is unworthy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerve you; yet your loving Brothe in Jeſus Chriſt,</p>
+            <closer>
+               <signed>John Norcott</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <head>The Contents of the Book.</head>
+            <list>
+               <item>The Introduction Page 1.</item>
+               <item>CHAP. I. Chriſt was Baptized in the River of <hi>Jordan,</hi> P. 2.</item>
+               <item>II. Of the great Commiſſion for Believers Ba<g ref="char:EOLhyphen"/>ptiſm. P. 7.</item>
+               <item>III. Examples. P. 11.</item>
+               <item>IV. Baptiſm is dipping or covering under Wa<g ref="char:EOLhyphen"/>ter. P. 17.</item>
+               <item>V. Proving Water-Baptiſm to continue till the ſecond coming of Jeſus Chriſt, p. 21.</item>
+               <item>VI. That no Meaſures of Grace or of the Spi<g ref="char:EOLhyphen"/>rit are a ſufficient ground to keep any from Water-Baptiſm. P. 23.</item>
+               <item>VII. Believers Baptiſm a great Ordinance, P. 25.</item>
+               <item>VIII. Anſwers to the common Objections, p. 28.</item>
+               <item>IX. Believers Baptiſm and Infant-Baptiſm com<g ref="char:EOLhyphen"/>pared. P. 48.</item>
+               <item>X. Plain Scriptures concerning Baptiſm without any Human Conſequence from man's Wiſdom P. 4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>XI. Conſiderations by way of Concluſion, P. 50.</item>
+               <item>An Appendix. P. 57.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30462:6"/>
+            <head>Baptiſm Diſcovered.</head>
+            <div type="introduction">
+               <head>The Introduction.</head>
+               <p>WHEN thou by reading goeſt to ſearch out the mind of God, let thy Cry be, <hi>Lord anoint mine eyes with eye-ſalve, that I may ſee;</hi> and if it hath been the day of Gods Power with thy ſoul, I fear not but thou wilt bid Truth welcome, in whatever dreſs it comes; and more think on what is comprized in the <hi>Letter,</hi> than be affrighted at the poor Cloathing of the <hi>Meſſenger;</hi> eſpecially, knowing it comes from one whoſe Name is the Great God. Therefore in handling this Truth, <hi>viz.</hi> Believers Baptiſm, as it was practiſed by Chriſt and the Primitive Churches, my great Requeſt to thee, is, That thou wilt read what is ſaid without prejudice: And whatever thou findeſt ac<g ref="char:EOLhyphen"/>cording to Truth, receive as that which is more precious than thy Life, and judge of it according to the Holy Scriptures; for
+<pb n="2" facs="tcp:30462:7"/>
+when all is ſaid that can be, they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be Judge in all Controverſies of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> And as <hi>Chriſt is the Foundation,</hi> 1 Cor. 2.11 upon which whoever buildeth, ſhall never be confounded. I ſhall therefore take a few Obſervations concerning Chriſt his being baptized; and herein you may take notice how exact the Holy Scriptures are, to ſet down the Circumſtances of his Bap<g ref="char:EOLhyphen"/>tiſm.</p>
+            </div>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> Chriſt was Baptized in the River of <hi>Jordan.</hi>
+               </head>
+               <p>COncerning the Baptiſm of <hi>Jeſus Chriſt</hi> you may read it at large, <hi>Mat.</hi> 3.13, &amp;c. <hi>Then cometh Jeſus from</hi> Galilee <hi>to</hi> Jor<g ref="char:EOLhyphen"/>dan <hi>unto</hi> John <hi>to be Baptized of him.</hi> Every word hath Emphaſis <hi>(then)</hi> before he en<g ref="char:EOLhyphen"/>tred upon his publick Miniſtry, as you ſee in <hi>Mat.</hi> 4.17. <hi>From that time Jeſus began to preach, (cometh)</hi> he might have com<g ref="char:EOLhyphen"/>manded <hi>John</hi> to have attended him; but in token of his ſubjection he cometh <hi>(from Galilee)</hi> many miles, &amp; 'tis likely on foot; every ſtep we take for God is acceptable, and one day ſhall have a Glorious Re<g ref="char:EOLhyphen"/>ward <hi>(to Jordan)</hi> where there was a Ri<g ref="char:EOLhyphen"/>ver
+<pb n="3" facs="tcp:30462:7"/>
+where Thouſands had been Baptized, and was a ſuitable place for <hi>John</hi> to dip Chriſt in as will be ſeen hereafter. Now I ſhall take notice of eight things concern- the Baptiſm of Chriſt.</p>
+               <p>
+                  <hi>Firſt,</hi> Concerning his Age, 'tis ſaid, <hi>Luk.</hi> 3.21. <hi>Jeſus being baptized,</hi> ver. 23. <hi>began to be about thirty years of Age;</hi> here you ſee that Chriſt himſelf was baptized at <hi>Grown Years;</hi> if any might be baptized in Infancy, why not Chriſt? Chriſtians be not aſha<g ref="char:EOLhyphen"/>med, your Captain is gone before you, he was thirty years old when baptized. Chriſt is not aſhamed to call you Bre<g ref="char:EOLhyphen"/>thren, <hi>Heb.</hi> 2.11.</p>
+               <p>
+                  <hi>Secondly,</hi> Another thing to be obſerved in the Baptiſm of Chriſt, is the Admini<g ref="char:EOLhyphen"/>ſtrator of this holy Ordinance, <hi>John,</hi> who confeſſeth of himſelf he was not worthy to unlooſe the latchets of his ſhooes, <hi>Mark,</hi> 1.7. Now if Chriſt would receive Bap<g ref="char:EOLhyphen"/>tiſm from ſuch an unworthy Inſtrument; never ſlight the Ordinance, becauſe of the unworthineſs of the Adminiſtrators, let your eye be on Chriſt your Example.</p>
+               <p>
+                  <hi>Thirdly,</hi> Note the Repulſe, <hi>John for<g ref="char:EOLhyphen"/>bad him,</hi> Mat. 3.14. Difficultly in duty muſt be no excuſe; we muſt take no de<g ref="char:EOLhyphen"/>nyal in following God, <hi>Strive to enter in at the ſtrait gate,</hi> Mat. 7.13.</p>
+               <p>
+                  <pb n="4" facs="tcp:30462:8"/>
+                  <hi>Fourthly,</hi> Note, <hi>John</hi>'s Argument, <hi>Mat.</hi> 3.14. <hi>I have need to be baptized of thee, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> comeſt thou to me?</hi> Some will not be bap<g ref="char:EOLhyphen"/>tized but of need; their carnal Argument is, May I not go to Heaven though I be not baptized? Is it of neceſſity to ſalvati<g ref="char:EOLhyphen"/>on? Is this like your Lord and Maſter? Was not he a perfect Saviour? Was not the Spirit poured on him without meaſure? He had no ſin to be waſhed away, wherefore ſee your example, he doth it not of need, but of obedience to his Fathers will.</p>
+               <p>
+                  <hi>Fifthly,</hi> Note the excellent Terms he gives to this Ordinance of Baptiſm. 1. He calls it <hi>Righteouſneſs,</hi> Matth. 3.15. 'Tis righteous and juſt that I ſhould be about my Fathers buſineſs. 2. It is a comely thing, <hi>it becomes us:</hi> Oh it is a very comely thing in God's Children, to have reſpect to all the Commandments of God. 3. The Conjunction <hi>(us)</hi> thee and me, and all my Followers, <hi>John</hi> 12.26. <hi>If any man ſerve me, let him follow me; and where I am, there ſhall alſo my ſervant be.</hi> 4. A Comple<g ref="char:EOLhyphen"/>tion, it is a fulfilling, 2 <hi>Cor.</hi> 10.4. <hi>The wea<g ref="char:EOLhyphen"/>pons of our warfare are not carnal but ſpiritu<g ref="char:EOLhyphen"/>al,</hi> ver. 5. <hi>bringing every thought into capti<g ref="char:EOLhyphen"/>vity to the obedience of Chriſt,</hi> ver. 6. <hi>having in readineſs to revenge all diſobedience, when your obedience ſhall be fulfilled.</hi> Obedience
+<pb n="5" facs="tcp:30462:8"/>
+muſt be fulfilled. 5. The univerſal Term <hi>(all)</hi> Baptiſm is one of the all. Chriſt reckons it ſo, <hi>Thou canſt not walk in all the Commands, if this be omitted,</hi>
+               </p>
+               <p n="6">6. Note, Concerning Chriſts Baptiſm the form of Adminiſtration, <hi>Mat.</hi> 3. <hi>And ſtraitway he went up out of the water (ſtrait<g ref="char:EOLhyphen"/>way)</hi> becauſe Baptiſm is once <hi>Dipping; (up)</hi> had he not been down, 'twould not have been ſaid he went up; <hi>(he went)</hi> was not carryed in Arms as Infants are, <hi>(out)</hi> if he went out of the water then he had been in: We never ſay one goes out of the houſe when he never was in. So Chriſt could not be ſaid to come out of the water, had he not been in; <hi>(he went up out)</hi> had a lit<g ref="char:EOLhyphen"/>tle water been brought to him in a Baſon, he had not been ſaid to go up out <hi>(of the wa<g ref="char:EOLhyphen"/>ter)</hi> this water was the River of <hi>Jordan:</hi> Chriſt ſtoops to ſmall things becauſe an Ordinance.</p>
+               <p n="7">7. Note, Concerning Chriſt's Baptiſm, the Father's Acceptance, <hi>Mat.</hi> 3.16, 17. (<hi>the Heavens were</hi> opened:) Some of Chriſt's Followers have found glorious openings of Heaven in Baptiſm; <hi>(the ſpirit deſcended)</hi> the very ſame that is promiſed to Believ<g ref="char:EOLhyphen"/>ers in their Baptiſm, <hi>Act.</hi> 2.38. <hi>Repent and be Baptized every one of you, and you ſhall re<g ref="char:EOLhyphen"/>ceive the Holy Ghoſt.</hi> Obj. <hi>But doth every
+<pb n="6" facs="tcp:30462:9"/>
+one receive the Holy Ghoſt that is bapt<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap> Anſ.</hi> The defect lies not in Baptiſm, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t in Faith and Repentance; without which no Ordinance is effectual: <hi>(And lo, a voice from Heaven, This is my beloved Son)</hi> Chriſt as Head was ſealed, and in Baptiſm is held forth the Sonſhip of his Members <hi>(in him I am well pleaſed)</hi> not only in all he hath and doth do, but in this very Act of Bap<g ref="char:EOLhyphen"/>tiſm, as an Act of Obedience to my glo<g ref="char:EOLhyphen"/>rious Will. I am well pleaſed, and ſo is the Lord well pleaſed in the Act of Obedience, wherein <hi>from the heart we obey the form of Doctrine delivered to us,</hi> Rom. 6.17. The ſame Voice the bleſſed Son of God hath in the Mount, <hi>Luk.</hi> 9.35. <hi>This is my beloved Son; hear him.</hi> Hear him in his Commands and Appointments; hear him now in his Baptiſm: Oh, ſaith Chriſt, thus it becom<g ref="char:EOLhyphen"/>eth us; you that have my Father for your Father, you that have my God for your God: Thus it becometh us to be baptized, and to fulfil all righteouſneſs; <hi>Oh he is a beloved Son, hear him.</hi>
+               </p>
+               <p n="8">8. Note, How in Chriſts Baptiſm the Tri<g ref="char:EOLhyphen"/>nity doth as it were meet; the Father with a Voice, the Son baptized in Perſon, the Ho<g ref="char:EOLhyphen"/>ly Ghoſt deſcends like a Dove: And ſurely it is one Reaſon, why Baptiſm in ſpecial is is to be adminiſtred in the Name of the Fa<g ref="char:EOLhyphen"/>ther,
+<pb n="7" facs="tcp:30462:9"/>
+Son, &amp; Holy Ghoſt; becauſe he who doth ſincerely believe, and is baptized, the whole Trinity, the Father, Son and Spirit is his portion; and that glorious Union of the Trinity in Chriſt's Baptiſm, is in eve<g ref="char:EOLhyphen"/>ry Believers Baptiſm commemorated.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> Of the great Commiſſion for Believers Baptiſm.</head>
+               <p>AS you have heard ſomething concern<g ref="char:EOLhyphen"/>ing your great Pattern, the Lord Je<g ref="char:EOLhyphen"/>ſus: ſo now I ſhall ſhew ſomething concern<g ref="char:EOLhyphen"/>ing his Command, <hi>Mat.</hi> 28.19. And I pray note what is ſaid of our Lord Jeſus, <hi>Act.</hi> 1.1. Chriſt is ſaid both to do &amp; teach; 'tis good for Teachers to imitate their Lord both to do and teach; and <hi>ver.</hi> 2. <hi>He was taken up, after that he through the Spirit had given Commandments, to his Apoſtles;</hi> of which Commandments, this of Believers Baptiſm is certainly one; and as you ſee in <hi>Mat.</hi> 28.18, 19, 20. The great God gave him to be <hi>a Commander and Leader to his People,</hi> Iſa. 55.4. Chriſt is a Gift as a Commander; Oh what Mercy it is to have ſuch a wiſe Commander, whoſe Commandments to Be<g ref="char:EOLhyphen"/>lievers are not grievous; <hi>in keeping his Com<g ref="char:EOLhyphen"/>mandments
+<pb n="8" facs="tcp:30462:10"/>
+there is great reward,</hi> Pſal. 19.11. Now in this Command there are Eight Things very notable.</p>
+               <p>
+                  <hi>Firſt,</hi> Note whence Chriſt came, why? He came out of the Grave, A Riſen Jeſus; <hi>And God raiſed him from the dead, and ſent him to bleſs us,</hi> Act. 3.26. Surely this bleſſed Jeſus would not appoint any thing but what is good for his People; he is a bleſſed Jeſus, and he gives bleſſed Commands; <hi>Bleſſed are they that do his Commandments, that they may have a right to the Tree of Life, and may enter in through the Gates into the City,</hi> Rev. 22.14.</p>
+               <p>
+                  <hi>Secondly,</hi> Note, Chriſt appeared and came to them; now ſhould an Angel appear and command men to be baptized, who would ſtand againſt it? But here you have the glo<g ref="char:EOLhyphen"/>rious Son of God in his own Perſon appear<g ref="char:EOLhyphen"/>ing, and ſaith, <hi>Go teach and baptize.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> Note what Authority he comes with, <hi>Mat.</hi> 28.18. <hi>All power in Heaven and Earth is given to me;</hi> all Power to com<g ref="char:EOLhyphen"/>mand both in Heaven and Earth is given to me; all power to diſpoſe of Heaven and Earth, all power to protect. I have Angels and Men at my Command; I am able to protect you, to ſtand by you, and to be with you, both in the fire and in the water: I
+<pb n="9" facs="tcp:30462:10"/>
+have all power, <hi>Go therefore, teach and bap<g ref="char:EOLhyphen"/>tize;</hi> fear no enemies:</p>
+               <p>
+                  <hi>Go teach and baptize.</hi>
+               </p>
+               <p>
+                  <hi>Fourthly,</hi> Note the Command it ſelf, <hi>Mat.</hi> 28.19. ſaith Chriſt, <hi>Go therefore teach and baptize.</hi> Chriſt ſaid but to <hi>Legion, Go,</hi> Mat. 8.32. and they ran violently, and ſhall not Believers be as willing People in the day of his power? The Centurion did but ſay <hi>Go,</hi> to his ſervants, and they did go; and he did but ſay Come, and they came; &amp; he did but ſay, Do this, and they did it: And ſhall Chriſts ſervants be worſe to him than the Centurions ſervants were? 'Tis Chriſt ſaith, <hi>Go.</hi>
+               </p>
+               <p>
+                  <hi>Go teach and baptize.</hi>
+               </p>
+               <p>
+                  <hi>Fifthly,</hi> Note, what is precedent to Bap<g ref="char:EOLhyphen"/>tiſm: <hi>Go teach,</hi> there muſt be teaching; God is a Spirit, and he ſeeks ſuch to worſhip him, that worſhip him in ſpirit and truth, <hi>Joh.</hi> 4.24. therefore there muſt go <hi>Teaching before Baptiſm,</hi> or elſe they will never worſhip him in ſpirit and truth. <hi>Go teach and bap<g ref="char:EOLhyphen"/>tize.</hi> I confeſs many men do ſay the word Teach in the Greek, is, Make diſciples, and I dare not ſay againſt it; for I find it the very practice of Jeſus Chriſt, he did firſt make Diſciples, and then baptized them, <hi>Joh.</hi> 4.1. <hi>Jeſus made and baptized more diſ<g ref="char:EOLhyphen"/>ciples than John;</hi> here was firſt a making
+<pb n="10" facs="tcp:30462:11"/>
+Diſciples, and then a baptizing them; b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> how many poor ſouls <hi>Ignorantly bapti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> thoſe who never were made Diſciples but, Chriſt ſaith, <hi>teach and baptize them.</hi>
+               </p>
+               <p>
+                  <hi>Sixthly,</hi> Note, The Extent of the Com<g ref="char:EOLhyphen"/>mand, <hi>Teach all Nations and baptize them.</hi> Go into all Nations, whether it be <hi>a hot or a cold Climate, Jews and Gentiles, Male and Female;</hi> when you have taught them, then baptize them. Now the middle Wall of Partition is broken down. Now God is no Reſpecter of Perſons, now let none think to boaſt that they have <hi>Abraham</hi> for their Father; No, no, go into all Nations, pub<g ref="char:EOLhyphen"/>liſh the glad tydings of the Goſpel to eve<g ref="char:EOLhyphen"/>ry Creature, <hi>Mark</hi> 16.15, 16. <hi>He that be<g ref="char:EOLhyphen"/>lieveth and is baptized, ſhall be ſaved; Go, teach all Nations, baptizing them;</hi> when you have taught them, then baptize them.</p>
+               <p>
+                  <hi>Seventhly,</hi> Note the words of Inſtitution, <hi>Mat.</hi> 28.19. <hi>Baptizing them in the Name of the Father,</hi> ſuch as receive the Lord Je<g ref="char:EOLhyphen"/>ſus on Goſpel-terms, God will be a Fa<g ref="char:EOLhyphen"/>ther to them, 2 <hi>Cor.</hi> 6.17, 18. <hi>Go give them a Call; come out from amongſt <g ref="char:V">Ʋ</g>nbelievers,</hi> &amp;c. <hi>and be ſeparate, and I will be a Father to you, and you ſhall be my ſons and daughters:</hi> Stand a while, and wonder here you that make nothing of the bleſſed Ordinance of Baptiſm; here below things done in the
+<pb n="11" facs="tcp:30462:11"/>
+King's Name, carries power; but here's the Great GOD'S Name: Yea, here's the Name of the Myſterious Trinity, <hi>Father, Son,</hi> and <hi>Holy Ghoſt,</hi> and doſt thou think Baptiſm hath nothing in it, that hath that glorious Name to be adored and admired? Go, baptize them in the glorious Name of the <hi>Father, Son,</hi> and <hi>Holy Ghost.</hi>
+               </p>
+               <p>
+                  <hi>Eightly,</hi> Note the glorious Promiſe an<g ref="char:EOLhyphen"/>nexed, <hi>Go baptize, and I will be with you;</hi> Chriſt is a good Companion, you that love his Company, ſeek it where he promiſeth it; <hi>Ask for the old and the good way, and walk therein, and you ſhall find reſt for your ſouls:</hi> Is there any Soul reſt ſhort of Chriſt? No, no, <hi>in his preſence is fulneſs of joy:</hi> would you have his Preſence, do like <hi>Zacheus,</hi> Get into the way, Believe and be baptized, for he comes this way, <hi>(baptize)</hi> and I will be with you always to the end of the World, <hi>(Amen,)</hi> an <hi>Amen</hi> follows, they are the fare<g ref="char:EOLhyphen"/>wel words of the beſt Friend, <hi>Baptize, I will be with you,</hi> Amen.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>EXAMPLES.</hi>
+               </head>
+               <p>OF many thouſands who were bapti<g ref="char:EOLhyphen"/>zed in Rivers, all of them Perſons who profeſſed, Faith and Repentance;
+<pb n="12" facs="tcp:30462:12"/>
+and were of years able to anſwer for them<g ref="char:EOLunhyphen"/>ſelves.</p>
+               <p>Firſt Example: Thoſe that Chriſt ſaid to baptize, <hi>Joh.</hi> 4.1, 2. it is ſaid, <hi>H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> made them Diſciples, and baptized them</hi> Firſt, they are Diſciples, then baptized, they are made Diſciples, not born Diſci<g ref="char:EOLhyphen"/>ples (that is) they are made Diſciples by the preaching of God's Word, and then they were baptized.</p>
+               <p>Second Example: You have an Exam<g ref="char:EOLhyphen"/>ple, <hi>Act.</hi> 2.41. <hi>Then they who gladly re<g ref="char:EOLhyphen"/>ceived his Word were baptized;</hi> the occa<g ref="char:EOLhyphen"/>ſion of this you have, <hi>ver.</hi> 37. <hi>They were prick'd at the heart, they knew not what to do;</hi> the ſenſe of ſin lay heavy upon them. The Apoſtle tells them, <hi>That they ſhould repent and be baptized, then they ſhould re<g ref="char:EOLhyphen"/>ceive the Holy Ghoſt; then they who glad<g ref="char:EOLhyphen"/>ly received the Word were baptized.</hi> Mercy is ſweet to a wounded ſoul, and ſuch a ſoul ſticks at no duty, now he can be plunged in water at Chriſt's Command, <hi>ver.</hi> 41. <hi>And the ſame day there were added unto them about three thouſand ſouls.</hi>
+               </p>
+               <p>Third Example: another Example you have, <hi>Act.</hi> 8.12. <hi>But when they believed</hi> Philip, <hi>preaching the things concerning the Kingdom of God, and the Name of Jeſus, Chriſt, they were baptized both Men and
+<pb n="13" facs="tcp:30462:12"/>
+Women:</hi> When they believed, <hi>ver.</hi> 5. They of <hi>Samaria,</hi> and for ought we know, ſome of thoſe whom the Diſciples would a little while ago have <hi>called for fire from Heaven</hi> upon, <hi>Luk.</hi> 9.52, 54. yet when theſe <hi>believed, they were baptized both Men and Women.</hi> Oh, if never ſo near Hell, yet be<g ref="char:EOLhyphen"/>lieve and be baptized, there's Mercy for thee.</p>
+               <p>Fourth Example: You have another Ex<g ref="char:EOLhyphen"/>ample of the baptizing of believers in <hi>Act.</hi> 8.35. <hi>Philip preached unto the Eunuch Jeſus,</hi> ver. 36. <hi>They came to a certain water and the Eunuch ſaid, ſee, here is water, what doth hinder me to be baptized;</hi> and <hi>ver.</hi> 37. <hi>And</hi> Philip <hi>ſaid, If thou believeſt with all thy heart, thou mayſt:</hi> This <hi>If,</hi> is the <hi>If</hi> we ſtand upon; be never ſo poor, ſo vile, if God once make thee to believe, then thou mayſt be baptized; 'twas not his godly Parents, 'twas not his reading, 'twas not his coming to <hi>Je<g ref="char:EOLhyphen"/>ruſalem</hi> to worſhip, 'twas not his willingneſs to be baptized; <hi>but if thou believeſt thou mayſt:</hi> ſaith the Greek, <hi>it is lawful;</hi> it is according to Chriſts Law. <hi>ver.</hi> 38. <hi>They went both down into the water, both</hi> Philip <hi>and the Eunuch, and he baptized him:</hi> Oh behold a Man, the great Treaſurer of the Queen of <hi>Ethiopia,</hi> a Rich Man, an Honourable Man, a Religious Man; a Man, 'tis like,
+<pb n="14" facs="tcp:30462:13"/>
+having many Attendants at his Chari<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> he ſtops all, commands all to ſtand ſt<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> till he yields obedience to his Lord and M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſter in Water-baptiſm, he can now g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down into the water for Him, who had come down from Heaven for him; he county it no diſgrace to obey Chriſt by his poor ſervant <hi>Philip:</hi> Oh the condeſcention of truly gracious ſouls: No Argument works like Love, <hi>Therefore if you love me keep my Commandments:</hi> Here's going down, and coming up, like the glorious ways of Chriſt; he firſt caſts down, then he raiſeth up; firſt brings to the Grave, and then ſaith, <hi>Return ye ſons of men,</hi> ver. 39. <hi>And he went on his way rejoycing:</hi> Oh what Triumph is in Chriſts ways, <hi>in</hi> keeping, though not <hi>for</hi> keeping his Commands; there is, as well as ſhall be great Reward <hi>(he went on his way) the Righteous ſhall hold on in his way, and he that hath clean hands ſhall be ſtronger and ſtronger,</hi> Job. 17.9. How many have ſtuck in their way, wept in their way, droopt in their way, but when baptized, have gone on their way rejoycing; he might have a ſad heart, though a rich Treaſurer: Riches would not do, <hi>Being baptized, he went on his way rejoycing. The Jaylor being baptized, rejoyced, believing in God with all his houſe,</hi> Acts 16.33, 34.</p>
+               <p n="5">
+                  <pb n="15" facs="tcp:30462:13"/>5 Example, The next Example we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome to, is the Baptizing of the famous A<g ref="char:EOLhyphen"/>poſtle <hi>Paul, Act</hi> 1.22.16. <hi>And now why tar<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt thou, ariſe and be baptized, and waſh a<g ref="char:EOLhyphen"/>way thy ſins;</hi> wouldeſt thou have thy ſoul filled with joy? wilt thou take Chriſt for thy Lord? then ariſe, why tarrieſt thou, and be baptized: <hi>He that appeared to thee in the way when thou wast a Perſecutor, and ſtopt thee from going to Hell, when thou waſt running, hath ſent me, ſaith</hi> Ananias, <hi>Act.</hi> 9.15, 17. <hi>And now why tarriest thou? ariſe, and be baptized,</hi> Act. 22.16. <hi>Thou haſt been a Perſecutor,</hi> and now I muſt ſhew thee that thou muſt be a Preacher, and a Suf<g ref="char:EOLhyphen"/>ferer; as <hi>Acts</hi> 9.15, 16. And therefore Ariſe, why tarrieſt thou? and be baptized: Oh accept of the terms and tenders of Mer<g ref="char:EOLhyphen"/>cy; bid Mercy welcome, but do not put it off a day; why doſt thou tarry? doſt think thy ſelf unworthy, and therefore tarryeſt? do not let that hinder, I tell thee from the Lord thou art a choſen Veſſel, <hi>Act.</hi> 9.15. Therefore, ariſe, why tarrieſt thou? and be baptized. The Lord is willing to for<g ref="char:EOLhyphen"/>give all thy former ſins, and to accept of thee on Goſpel-terms, <hi>and now, why tarrieſt thou? ariſe, and be baptized, and waſh a<g ref="char:EOLhyphen"/>way thy ſins.</hi>
+               </p>
+               <p n="6">6 Example: Another Example of Be<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ers
+<pb n="16" facs="tcp:30462:14"/>
+Baptiſm is the Baptiſm of the Jaylor <hi>Acts</hi> 16.30, 31, 32. He went to bed in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſins, and might have awaked in Hell; bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> preventing-Mercy meets him when hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſword was drawing; and by a Glorious Inſtrument God crys, <hi>Do thy ſelf no harm,</hi> there is hope for thee: And he trembling cries, <hi>What muſt I do?</hi> That ſoul that trembles before the Almighty God, will not only cry out what ſhall I have, but what ſhall I do? <hi>Believe,</hi> ſaith <hi>Paul, believe on the Lord Jeſus:</hi> And to demonſtrate his wil<g ref="char:EOLhyphen"/>lingneſs to yield Obedience to the Lord Jeſus, and to accept of him on Goſpel-terms, he is baptized the ſame hour of the night, <hi>ver.</hi> 33. And if you note, <hi>ver.</hi> 34. <hi>all his believed and were baptized.</hi>
+               </p>
+               <p n="7">7. Another Example you have of <hi>Lydia, Act.</hi> 16.14. a godly woman, a praying woman, God opened her heart to attend his Word by <hi>Paul,</hi> and being at the River ſhe was baptized. When the heart is ſhut, how backward are ſouls to obey Chriſt? One draw from Chriſt makes the Soul run, <hi>Song</hi> 1. 4. <hi>The Lord opened her heart, and ſhe was baptized.</hi>
+               </p>
+               <p n="8">8 Example, you have <hi>Acts</hi> 18.8. <hi>Criſpus</hi> the chief Ruler of the Synagogue believed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord with all his houſe; and many of the <hi>Corinthians</hi> hearing, believed and
+<pb n="17" facs="tcp:30462:14"/>
+were baptized; <hi>Criſpus</hi> believed, his houſe believed, all runs in their believing, and then they were baptized: Thus you have Pattern and Precept; it Command or Ex<g ref="char:EOLhyphen"/>ample be of any force, here's both.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Baptiſm is Dipping or Covering under Water.</head>
+               <p n="1">1. THe Greek <hi>Baptizo, to plunge, to o<g ref="char:EOLhyphen"/>verwhelm.</hi> Thus Chriſt was plunged in water, <hi>Mat.</hi> 3.16. Thus he was plunged or overwhelm'd in his ſuffering, <hi>Luk.</hi> 12.50.</p>
+               <p n="2">2. The <hi>Dutch</hi> Tranſlation reads <hi>Mat.</hi> 3. <hi>In thoſe days came</hi> John <hi>the Dipper,</hi> John 3.23. <hi>John was dipping in</hi> Aenon, <hi>where there was much water,</hi> what need much water were it not <hi>dipping?</hi>
+               </p>
+               <p n="3">3. They did baptize in Rivers, <hi>Mat.</hi> 3.6. <hi>They came to</hi> John, <hi>and were baptized in the River of</hi> Jordan, John 3.23. John <hi>was bap<g ref="char:EOLhyphen"/>tizing in</hi> Aenon <hi>where there was much water;</hi> what need it be in a River, and where there was much water? would not a little in a <hi>Ba<g ref="char:EOLhyphen"/>ſon</hi> ſerve to <hi>Sprinkle</hi> the <hi>Face?</hi>
+               </p>
+               <p n="4">4. Baptiſm ſignifies the Burial of Chriſt, <hi>Rom.</hi> 6.4. <hi>Therefore we are buried with him by Baptiſm,</hi> Coloſs. 2.12. <hi>Buried with him
+<pb n="18" facs="tcp:30462:15"/>
+in Baptiſm.</hi> Now we do not reckon a ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> buried, when a little earth is <hi>Sprinkled</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Face; but he is buried when <hi>Covered</hi> thus <hi>you are buried in Baptiſm.</hi>
+               </p>
+               <p n="5">5. Chriſts ſufferings are called a Baptiſm, <hi>Luke,</hi> 12.50. <hi>I have a Baptiſm to be bap<g ref="char:EOLhyphen"/>tized with, and how am I ſtraitned till it be accompliſhed?</hi> when Chriſt ſuffered, he was plunged into pains; did his ſufferings lye only on his head or on his forehead? No, no, there was not one part free; he was from head to foot in pain; his head was crowned with piercing Thorns, his hands and feet nailed to the Croſs; ſo ſtretch<g ref="char:EOLhyphen"/>ed out on the Croſs, that a man might have <hi>told all his bones, Pſ.</hi> 22.17. There was not one part free, the man hath ſin<g ref="char:EOLhyphen"/>ned, body, ſoul and ſpirit. Chriſt was baptized into pains, plunged into ſorrow, not any part free, this he calls his Ba<g ref="char:EOLhyphen"/>ptiſm. Thus one baptized is plunged un<g ref="char:EOLhyphen"/>der water, to ſhew how Chriſt was plunged into ſorrow for our ſakes.</p>
+               <p n="6">6. Baptiſm is a putting on Chriſt, <hi>As many of you as are baptized into Chriſt have put on Chriſt,</hi> Gal. 3.27. that as a ſervant wears his Lords Livery, a Garment which demonſtrates him to be a Servant to ſuch a Lord: So in Baptiſm we put on our Lords Livery, he cloathes from head to
+<pb n="19" facs="tcp:30462:15"/>
+foot: Thus by Baptiſm we put on Chriſt.</p>
+               <p n="7">7. <hi>When Chriſt was baptized, he came up out of the water,</hi> Mat. 3.16. Was it only a <hi>little Water</hi> thrown on his <hi>Face?</hi> Then he had not been in the water; but becauſe he was baptized in the water, therefore being baptized he came up out of the wa<g ref="char:EOLhyphen"/>ter. <hi>Philip and the Eunuch went both down into the water, (and being there in the wa<g ref="char:EOLhyphen"/>ter)</hi> Philip <hi>baptized the Eunuch, and when he was baptized he came up out of the wa<g ref="char:EOLhyphen"/>ter, Act.</hi> 8.38, 39.</p>
+               <p>Thus you ſee the place where they were baptized, was a River; their Action, they went down into the Water; then being in the water, they were baptized; this was where was much water. The end was to ſhew forth Chriſts Burial. Now if there be not a Burial under water to ſhew Chriſts Burial, the great end of the Ordinance is loſt: but we are buried by Baptiſm.</p>
+               <p>Queſt. <hi>But why may not Sprinkling with water ſerve, as well as Covering under water? Is there any more vertue in a great deal of wa<g ref="char:EOLhyphen"/>ter, than there is in a little water?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Sprinkling may not ſerve as well as Dipping under water.</p>
+               <p n="1">1. Becauſe God is a jealous God, &amp; ſtands upon ſmall things in matters of Worſhip; 'tis likely <hi>Nadah</hi> and <hi>Abihu</hi> thought, if they
+<pb n="20" facs="tcp:30462:16"/>
+put fire in the Cenſer, it might ſerve, though it were not fire from the Altar; but God calls it ſtrange fire, and therefore he burns them with ſtrange fire, <hi>Lev.</hi> 10.1, 2. and <hi>Moſes</hi> adds, <hi>Ver.</hi> 3. <hi>This is it that the Lord ſpake, ſaying, I will be ſanctified in them that come nigh me, and before all the people I will be glorified.</hi> God bid <hi>Moſes</hi> ſpeak to the Rock, and <hi>Moſes</hi> ſmote the Rock, and therefore muſt dye ſhort of <hi>Canaan,</hi> Num. 20.8, 11, 12.</p>
+               <p n="2">2. Sprinkling may not ſerve, becauſe thereby the end of the Ordinance is loſt, which is to ſhew the Death, Burial, and Re<g ref="char:EOLhyphen"/>ſurrection of Chriſt, Rom. 6.4. <hi>We are bu<g ref="char:EOLhyphen"/>ried with him by Baptiſm, that like as Chriſt was raiſed,</hi> &amp;c.</p>
+               <p n="3">3. Sprinkling will not ſerve, becauſe it is not that God hath appointed. <hi>Naaman</hi> the Leper did think the waters of <hi>Damaſcus</hi> to be of the ſame vertue with (or better than) the waters of <hi>Iſrael,</hi> 2 Kings 5.12. <hi>May I not waſh in them and be clean?</hi> God had ap<g ref="char:EOLhyphen"/>pointed him to dip in <hi>Jordan,</hi> not that there was more vertue in that water; but God did appoint him to dip in <hi>Jordan,</hi> and he did, and was clean. Dipping is God's Ap<g ref="char:EOLhyphen"/>pointment.</p>
+               <p n="4">4. Sprinkling will not ſerve, becauſe it is not according to the Pattern. Chriſt went
+<pb n="21" facs="tcp:30462:16"/>
+down into the water. <hi>Philip</hi> &amp; the <hi>Eunuch,</hi> went down into the water, <hi>Act.</hi> 8.38. <hi>Heb.</hi> 8.5. <hi>See thou make all things according to the Pattern.</hi>
+               </p>
+               <p n="5">5. Sprinkling will not ſerve, becauſe it is high preſumption to change God's Ordi<g ref="char:EOLhyphen"/>nances; Is not God wiſe enough to appoint his own Worſhip how it ſhall be perform<g ref="char:EOLhyphen"/>ed? <hi>Iſa.</hi> 24.5 <hi>The Earth is defiled, becauſe they have changed the Ordinance.</hi>
+               </p>
+               <p n="6">6. Sprinkling will not ſerve, becauſe Sprinkling is not Baptiſm; it is not the thing intended by God; Baptiſm is <hi>Dipping</hi> or <hi>Plunging.</hi> Sprinkling is not Baptiſm, therefore Sprinkling will not ſerve, <hi>Luk.</hi> 7.29, 30. Gods Councel is <hi>Baptiſm</hi> or <hi>Dipping.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Proving Water-Baptiſm, to continue till the Second Coming of Jeſus Chriſt.</head>
+               <p>THat this may appear that Water-Bap<g ref="char:EOLhyphen"/>tiſm is to continue, and to be practi<g ref="char:EOLhyphen"/>ſed by Believers till the ſecond coming of Jeſus Chriſt; take theſe ſix Conſiderati<g ref="char:EOLhyphen"/>ons:</p>
+               <p n="1">1. Conſider that Water-Baptiſm was once commanded, and never yet repealed,
+<pb n="22" facs="tcp:30462:17"/>
+and no power can repeal a Command of Chriſt, but the ſame power of Chriſt, by which it was given forth, <hi>Jud. ver.</hi> 3. <hi>Con<g ref="char:EOLhyphen"/>tend for the Faith which was once delivered to the Saints.</hi>
+               </p>
+               <p n="2">2. Conſider, that Water-baptiſm was practiſed before, and ſince the Reſurrection of Jeſus Chriſt:</p>
+               <p n="1">1. Before the Reſurrection of Chriſt, <hi>Mat.</hi> 3.16. <hi>Joh.</hi> 3.23. &amp; <hi>Joh.</hi> 4.1, 2.</p>
+               <p n="2">2. Since the Reſurrection of Chriſt, <hi>Act.</hi> 2.41. &amp; 8.12, 38. &amp; 10.47, &amp;c.</p>
+               <p n="3">3. Conſider that Water Baptiſm was commanded after Chriſts Reſurrection, <hi>Mat.</hi> 28.19. <hi>Go teach all Nations, bapti<g ref="char:EOLhyphen"/>zing them.</hi> Had Water-Baptiſm ceaſed with Chriſts death, it had not been com<g ref="char:EOLhyphen"/>manded and practiſed after his Reſurre<g ref="char:EOLhyphen"/>ction.</p>
+               <p n="4">4. Conſider, that the end of the Ordi<g ref="char:EOLhyphen"/>nance remains as at the Lords Supper; the end of it is to ſhew forth the Lords death till he come; and to do this in remembrance of Chriſt; as long as we are to remember Chriſts death, it is to be done in remem<g ref="char:EOLhyphen"/>brance of <hi>Chriſt</hi> even till his ſecond coming: ſo Baptiſm is to ſhew the Death, Burial &amp; Reſurrection of Chriſt, <hi>Rom.</hi> 6.3, 4, 5. the End remaining, the Ordinance remains till his ſecond coming.</p>
+               <p n="5">
+                  <pb n="23" facs="tcp:30462:17"/>5. Conſider, it hath been continued by Chriſtians in all Ages, ſince Jeſus Chriſt left his Command with the Saints.</p>
+               <p n="6">6. Conſider whether the ſame Argument that throws down Water-baptiſm, if grant<g ref="char:EOLhyphen"/>ed, will not throw down all Ordinances: for if you grant that when the Spirit is come Baptiſm ceaſeth; may you not as well ſay, when the Spirit is come? Preaching cea<g ref="char:EOLhyphen"/>ſeth, Prayer ceaſeth; but this is by reaſon of mans corrupt heart: Chriſt ſaith, <hi>Teach<g ref="char:EOLhyphen"/>ing them to obſerve all things whatſoever I have commanded you; And lo I am with you alway, even unto the end of the world,</hi> Mat. 28.19, 20.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> That no Meaſures of Grace or of the Spirit are a ſufficient Ground to keep any from Water-Baptiſm.</head>
+               <p>THAT no Meaſures of Grace or of the Spirit are a ſufficient Ground to keep from Baptiſm, may plainly appear, if you</p>
+               <p n="1">1. Conſider, that Baptiſm is from Hea<g ref="char:EOLhyphen"/>ven, as you ſee, <hi>Mat.</hi> 21.25. Now what ſhould keep from a Heavenly Command?</p>
+               <p n="2">2. Conſider the Lord Jeſus had all grace,
+<pb n="24" facs="tcp:30462:18"/>
+and the Spirit without Meaſure; as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3.34. and yet he was Baptized in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> River of <hi>Jordan,</hi> as you may ſee, <hi>Mat.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 13, 14, 15. Is not Chriſt a good Patter<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for Believers to follow?</p>
+               <p n="3">3. Conſider, where hath God thus limi<g ref="char:EOLhyphen"/>ted Baptiſm to perſons, having little Grace or little of the Spirit. Nay, on the Con<g ref="char:EOLhyphen"/>trary hath not God promiſed his Spirit that you may keep my Ordinances and do them? <hi>Ezek.</hi> 11.19, 20.</p>
+               <p n="4">4. Conſider, the Apoſtle makes receiv<g ref="char:EOLhyphen"/>ing the Spirit, an Argument to encourage to Baptiſm, <hi>Acts</hi> 10.47. <hi>Can any man for<g ref="char:EOLhyphen"/>bid water, that theſe ſhould not be baptized, who have received the Holy Ghoſt as well as we?</hi> Now if you mind, theſe were ſo ba<g ref="char:EOLhyphen"/>ptized with the Spirit, that they ſpake with Tongues and Propheſied; a ſtrange work to Propheſie and ſpeak with Tongues; ſuch a Meaſure of the Spirit is not in our days, yet he Commanded them to be baptized, <hi>ver.</hi> 48.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="25" facs="tcp:30462:18"/>
+               <head>
+                  <hi>CHAP. VII.</hi> Believers Baptiſm a great Ordinance.</head>
+               <p>THE greatneſs of the Ordinance of B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lievers Baptiſm may appear, if you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſider theſe ſeven Particulars.</p>
+               <p n="1">1. Conſider that Baptiſm is an Ordi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance which hath the great Pattern, the Captain of our Salvation himſelf did pra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiſe it; as you ſee, <hi>Mat.</hi> 3.13. <hi>Then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ometh Jeſus to be baptized: If any man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erve me,</hi> ſaith Chriſt, <hi>let him follow me; And where</hi> I <hi>am there ſhall my ſervant be,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 12.26. Chriſt is the great Exam<g ref="char:EOLhyphen"/>ple.</p>
+               <p n="2">2. Conſider the great Name in which Baptiſm is Adminiſtred, <hi>Mat.</hi> 28.19, 20. <hi>Baptize them in the Name of the Father, Son, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd Holy Ghoſt:</hi> This Name muſt not be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lighted; it is a great Name.</p>
+               <p n="3">3. Conſider Baptiſms great buſineſs, it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s called Righteouſneſs: Righteouſneſs is a great thing. Chriſt calls it a comely thing, <hi>Mat.</hi> 3.15. <hi>Thus it becometh us to fulfil all Righteouſneſs;</hi> it is a fulfilling all Righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+               <p n="4">4. Conſider Baptiſms great Commiſſion; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is one of the laſt Conmands of our bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="26" facs="tcp:30462:19"/>
+Saviour after his Reſurrection, a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before his Aſcenſion, as appears, <hi>Mat.</hi> 28 19, 20. <hi>Go Teach and Baptize.</hi>
+               </p>
+               <p n="5">5. Conſider Baptiſms great Promiſes <hi>Mat.</hi> 28.19, 20. <hi>Go teach and baptize, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> lo,</hi> I <hi>am with you;</hi> here's the Promiſe of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glorious preſence of Chriſt. Then ye have the promiſe of the Holy Ghoſt, <hi>Re<g ref="char:EOLunhyphen"/>pent and be baptized, and you ſhall receive th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gift of the Holy Ghoſt,</hi> Act. 2.38.</p>
+               <p>You have alſo the Promiſe or Aſſuranc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of waſhing away your ſins, <hi>Act.</hi> 22.16 <hi>Ariſe, and be baptized, and waſh away th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſins.</hi>
+               </p>
+               <p>Again, You ſhall find the promiſe of Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vation annexed to Baptiſm, <hi>Mark</hi> 16.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>He that believeth and is baptized, ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſaved;</hi> Chriſt's Preſence, the Holy Ghoſt'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pardon of ſin, and Salvation; all theſe a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> great Promiſes.</p>
+               <p n="6">6. Conſider the Eminency of Baptiſm every Word of God is pure, but Baptiſm is called the Councel of God, <hi>Luk.</hi> 7.29, 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>They rejected the Councel of God again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> themſelves, not being baptized;</hi> is not th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Councel of God a great thing?</p>
+               <p n="7">7. Conſider, ſince Chriſt hath b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> gone to Heaven, he hath commanded <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ptiſm <hi>Acts</hi> 8.29. the Spirit bid <hi>Philip</hi> jo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> himſelf to the Chariot, which clearly a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pears
+<pb n="27" facs="tcp:30462:19"/>
+was, that he might preach Chriſt, and baptize the Eunuch; <hi>And when he was baptized, he went away rejoycing:</hi> Here's one Call from Heaven.</p>
+               <p>Another Command from Heaven to bap<g ref="char:EOLhyphen"/>tize, after Chriſts Aſcenſion, you have in the Lord Jeſus's ſending <hi>Ananias</hi> to <hi>Paul, Act.</hi> 9.19. <hi>The Lord called</hi> Ananias <hi>in a Viſion, and ſends him to</hi> Paul; <hi>and when he comes, he ſaith,</hi> Acts 22.16. <hi>and now why tarrieſt thou? ariſe and be baptized, and waſh away thy ſins.</hi> This <hi>Paul</hi> tells us were the words of <hi>Ananias;</hi> here you have another Call from Heaven to baptize.</p>
+               <p>Again you ſhall find, <hi>Act.</hi> 10.4, 5. <hi>Cor<g ref="char:EOLhyphen"/>nelius</hi> hath a Call from Heaven to ſend for <hi>Peter,</hi> who ſhould tell him words where<g ref="char:EOLhyphen"/>by he ſhould be ſaved. <hi>Peter</hi> hath a Call from Heaven to go to <hi>Cornelius, ver.</hi> 19.20. <hi>Go therefore, nothing doubting;</hi> here <hi>Peter</hi> is ſent from Heaven, and to ſpeak words whereby <hi>Cornelius</hi> might be ſaved; and when he came to <hi>Cornelius,</hi> you ſhall find <hi>ver.</hi> 48. <hi>He commanded them to be baptized.</hi> Thus you ſee Baptiſm was commanded af<g ref="char:EOLhyphen"/>ter Chriſt's Aſcenſion; all which may ſhew Baptiſm to be a great Ordinance.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="28" facs="tcp:30462:20"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> Anſwer to the common Objections.</head>
+               <p>SUch is the corruption of mans heart, as he will make Objections againſt the cleareſt Truth in the bleſſed Word of God; and which of the Truths of God, yea, hath not God himſelf been objected againſt? but I may ſay of Baptiſm, as once He ſaid, <hi>Theſe things were not done in a Corner:</hi> I only give this Scripture-caution, <hi>They have cloſed their eyes leſt they ſhould ſee and be converted, and I ſhould heal them:</hi> Take heed of cloſing the eyes, and then I am ſure thou wilt be willing in the day of God's power; but if in Conſcience thou deſireſt ſatisfaction, conſider the An<g ref="char:EOLhyphen"/>ſwers to the following Objections.</p>
+               <p>
+                  <label>Object. 1.</label>
+Some Object where it is ſaid, <hi>Mat.</hi> 28.19, 20. <hi>To the end of the World,</hi> that is, <hi>to the end of that Age.</hi>
+               </p>
+               <p>
+                  <label>
+                     <hi>Anſw.</hi> 1.</label>
+To which I Anſwer, This cannot be the ſenſe of the Text: Firſt, Becauſe Chriſt bids the Apoſtles teach them <hi>to obſerve all things whatſoever I have commanded you, Mat.</hi> 28.20. Now do you think that all
+<pb n="29" facs="tcp:30462:20"/>
+things the Apoſtles were to teach them to obſerve, were only to the end of that Age? Chriſt commands them to repent, believe, to be holy, to be baptized; and are we to repent, believe and be holy, no longer than to the end of that Age? Secondly, Chriſt promiſes his preſence to the end of the World, <hi>Mat.</hi> 28.20. <hi>Lo, I am with you to the end of the Word.</hi> Now hath Chriſt pro<g ref="char:EOLhyphen"/>miſed his Preſence but to the end of that Age? this would be a dreadful Doctrine, Joſh. 1.5. <hi>He hath ſaid, I will not fail thee, nor forſake thee;</hi> ſo that the promiſe of his Preſence is to laſt in all Ages, as the word may be rendred; <hi>I will be with you in Ages,</hi> or, <hi>to the end of the World;</hi> there<g ref="char:EOLhyphen"/>fore obſerve, <hi>all things to the end of the World.</hi>
+               </p>
+               <p>
+                  <label>Object. 2.</label>
+                  <hi>2.</hi> But Water-baptiſm was <hi>John's</hi> Baptiſm.</p>
+               <p>
+                  <label>I <hi>Anſwer.</hi>
+                  </label>
+Was the Baptiſm of <hi>John</hi> from Heaven or of men? <hi>John</hi>'s Baptiſm was from Hea<g ref="char:EOLhyphen"/>ven, <hi>Mat.</hi> 21.25. Then further, <hi>John</hi> was but to prepare Chriſt's way before him, Luk. 1.76. <hi>Thou ſhalt go before the face of the Lord, to prepare his ways;</hi> ſo that <hi>John</hi> did but prepare Chriſts way: This there<g ref="char:EOLhyphen"/>fore was Chriſt's way, not <hi>John</hi>'s way: But further hath not Chriſt commanded, and
+<pb n="30" facs="tcp:30462:21"/>
+the Churches practis'd Baptiſm after <hi>John</hi>'s Death, and Chriſt's Reſurrection? Di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not Chriſt ſay, <hi>Go teach and baptize;</hi> and wilt thou ſay this is <hi>John</hi>'s Baptiſm?</p>
+               <p>
+                  <label>Object. 3.</label>
+                  <hi>3.</hi> But Circumciſion and <g ref="char:V">Ʋ</g>ncircumciſion availeth nothing, but a New Creature.</p>
+               <p>
+                  <label>I <hi>Anſwer.</hi>
+                  </label>
+Once Circumciſion was ſomething, when the Lord would have killed <hi>Moſes</hi> becauſe of the Circumciſion, as <hi>Exod.</hi> 4.24, 25, 26. and when the Lord ſaid, <hi>That whoever was not circumciſed, he ſhould be cut off from the people,</hi> Gen. 17.14. Now in the Goſpel it is nothing, becauſe aboliſhed, <hi>Gal.</hi> 5.2. <hi>If you be circumciſed, Chriſt ſhall profit you nothing:</hi> But wilt thou ſay the Councel of God is nothing? Baptiſm is the Coun<g ref="char:EOLhyphen"/>cel of God, <hi>Luk.</hi> 7.29, 30. And is this no<g ref="char:EOLhyphen"/>thing? Baptiſm is a Command of the Lord Jeſus, <hi>Mat.</hi> 28.19. And is his Com<g ref="char:EOLhyphen"/>mand nothing?</p>
+               <p>
+                  <label>Object. 4.</label>
+                  <hi>4. I</hi> am baptized with the Spirit, which is the ſubſtance; Water-baptiſm is but the ſha<g ref="char:EOLhyphen"/>dow.</p>
+               <p>
+                  <label>I <hi>Anſwer.</hi>
+                  </label>
+Thou mayſt as well ſay ſo of all other Ordinances, they are but ſhadows; the Supper is but a ſhadow: Prayer, Hearing
+<pb n="31" facs="tcp:30462:21"/>
+and Preaching are but ſhadows; and then whither wilt thou run? Then further, the Queſtion is not whether it be a ſhadow; Is it a Command? If a Command, diſpute not Chriſt's Authority leſt he be angry. But further, call Water-baptiſm a ſhadow, yet conſider Chriſt ſubjected to it, and who art thou, wilt thou be wiſer than Chriſt? And further, <hi>Acts</hi> 10.47. <hi>They were baptiz<g ref="char:EOLhyphen"/>ed with the Spirit, and ſpake with Tongues,</hi> and yet were baptized in water. <hi>Remember he that is faithful in the leaſt, is faithful in much.</hi>
+               </p>
+               <p>
+                  <label>Object. 5.</label>
+                  <hi>5.</hi> Doth not Baptiſm come in the room of Circumciſion?</p>
+               <p>
+                  <label>I <hi>Anſwer.</hi>
+                  </label>
+No ſurely, for there's not any Word of God for ſuch a thing, and thou muſt not be wiſe above what is written, 1 <hi>Cor.</hi> 4.6. And then conſider, Circumciſion concerned on<g ref="char:EOLhyphen"/>ly the Males; but <hi>Acts</hi> 8.12. <hi>When they believed, they were baptized, both Men and Women.</hi>
+               </p>
+               <p>
+                  <label>Object. 6.</label>
+                  <hi>6.</hi> But are not very learned Men for In<g ref="char:EOLhyphen"/>fant Baptiſm?</p>
+               <p>
+                  <label>I Anſwer.</label>
+                  <hi>Luke</hi> 7.29.30. The Phariſees and Law<g ref="char:EOLhyphen"/>yers (the learned men of the times) reje<g ref="char:EOLhyphen"/>cted the Councel of God againſt them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="32" facs="tcp:30462:22"/>
+not being baptized. Do not ſay as they ſaid, <hi>Which of the Rulers have be<g ref="char:EOLhyphen"/>lieved in him?</hi> Hearken to Chriſt's An<g ref="char:EOLhyphen"/>ſwer, <hi>Mat.</hi> 11.25. <hi>Jeſus anſwered, I thank thee, O Father, Lord of Heaven and Earth, that thou haſt hid theſe things from the wiſe and prudent, and hast revealed them to Babes,</hi> And further, If Learning were an Argu<g ref="char:EOLhyphen"/>ment in this caſe, Are there not many Car<g ref="char:EOLhyphen"/>dinals and Jeſuits Learned Men?</p>
+               <p>
+                  <label>Object. 7.</label>
+                  <hi>7.</hi> But are not there very Godly men, Pa<g ref="char:EOLhyphen"/>ſtors of Churches, that hold Infant-baptiſm?</p>
+               <p>
+                  <label>I <hi>Anſwer</hi>
+                  </label>
+You are not to follow an Apoſtle further than he followeth Chriſt, 1 <hi>Cor.</hi> 11.1. <hi>Fol<g ref="char:EOLhyphen"/>low me, as</hi> I <hi>follow Chriſt.</hi> Again, bring no Examples of good Men againſt an expreſs word. You have an expreſs word, <hi>Acts</hi> 8.12. <hi>When they believed they were Baptized, both Men &amp; Women. Elias</hi> was a good man, he called for fire from Heaven, but we muſt not do ſo. <hi>Jehoſaphat</hi> was a good King, but the High Places were not removed; follow no Example againſt a word, 1 <hi>Kings</hi> 22.42, 43. <hi>Thou ſhalt not follow a multitude to do evil.</hi> Exod. 23.2.</p>
+               <p>
+                  <label>Object. 8.</label>
+                  <hi>8.</hi> But there's not a word againſt Baptiz<g ref="char:EOLhyphen"/>ing Infants?</p>
+               <p>
+                  <pb n="33" facs="tcp:30462:22"/>
+                  <label>I Anſwer.</label>
+                  <hi>Nadab</hi> and <hi>Abihu</hi> were burned with fire, becauſe they did that the Lord commanded not, <hi>Lev.</hi> 10.2, 3. Again, if you mean by a word, an expreſs word, then where have you a word, <hi>Thou ſhalt not baptize Bells,</hi> as you read in the Book of Martyrs they did? Where have you a word, ſaying, <hi>Thou ſhalt not uſe Spittle, Cream or Salt in Baptiſm,</hi> as the <hi>Roman</hi> Catholicks do? But you muſt know, it is enough againſt Infant-Baptiſm, it is not commanded.</p>
+               <p>
+                  <label>Object. 9.</label>
+                  <hi>9.</hi> But were there not whole Families Ba<g ref="char:EOLhyphen"/>ptized?</p>
+               <p>
+                  <label>I Anſwer.</label>
+That it is expreſly ſaid, <hi>They all believed,</hi> Acts 16.34. <hi>He was baptized and all his, ver.</hi> 33. <hi>He rejoyced, beleiving in God with all his Houſe,</hi> ver 34. Criſpus <hi>the Chief Ru<g ref="char:EOLhyphen"/>ler, believed in God with all his Houſe; and many of the</hi> Corinthians <hi>believed and were ba<g ref="char:EOLhyphen"/>ptized</hi> Acts 18.8. Lydia <hi>and all her Houſe were baptized,</hi> Acts 16.15. Here's no men<g ref="char:EOLhyphen"/>tion of Husband or Children, whether ſhe was a Maid or a Widdow; only they are called Brethren, <hi>ver.</hi> 40.</p>
+               <p>
+                  <label>Object. 10.</label>
+                  <hi>10<g ref="char:punc">▪</g>
+                  </hi> Infants were once Church<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Members, and we do not find they were cut off.</p>
+               <p>
+                  <pb n="34" facs="tcp:30462:23"/>
+                  <label>I Anſwer.</label>
+That the natural Branches were broken off by their Unbelief; and if they come to believe, they may be grafted in again, but till then they are broken off, <hi>Rom.</hi> 11.20, 21. Again now in the Goſpel, the Axe is laid to the root of the Tree; and every Tree that brings not forth good fruit, is cut down and caſt into the fire, <hi>Mat.</hi> 3.9, 10. <hi>Therefore you muſt not think to ſay you have</hi> Abraham, <hi>or a Believer, for your Father;</hi> This is the ſure Word of God. And thus you may ſee that the <hi>Sadduces</hi> were rejected, when they came for Ba<g ref="char:EOLhyphen"/>ptiſm, thinking to ſay, <hi>They had Abraham for their Father,</hi> Mat. 3.7, 8, 9. And further, Infants were Members of the Na<g ref="char:EOLhyphen"/>tional Church of the Jews: But where were they ever Members of a particular Church under the Goſpel? When Infants were Members, then Servants that were bought with Money were all Members, <hi>Gen.</hi> 17.12. <hi>Which are not of thy ſeed:</hi> God now in the Goſpel ſeeks ſuch to Worſhip him, who <hi>Worſhip him in Spirit and in Truth, John</hi> 4.23. And further, there was then a middle Wall of Partition; but this mid<g ref="char:EOLhyphen"/>dle Wall of Partition is broken down, <hi>Eph.</hi> 2.14. And now God is no Reſpecter of Perſons, but in every Nation, ſuch as fear
+<pb n="35" facs="tcp:30462:23"/>
+him<g ref="char:punc">▪</g> and work Righteouſneſs, are accept<g ref="char:EOLhyphen"/>ed of him, <hi>Acts</hi> 10.34.35.</p>
+               <p>
+                  <label>Object. 11.</label>
+                  <hi>11.</hi> But is the Priviledge of Believers Children, leſs under the Goſpel than it was under the Law?</p>
+               <p>
+                  <label>I Anſwer.</label>
+What doſt thou mean by Priviledge? was it a priviledge to be under the Law, or is it now a priviledge to be under the Goſ<g ref="char:EOLhyphen"/>pel? or doſt thou mean by priviledge to have the Promiſes which the Apoſtle tells us of, <hi>Rom</hi> 9.8. <hi>They which are Children of the fleſh, are not the Children of Promiſe;</hi> or doſt thou mean by Priviledge to par<g ref="char:EOLhyphen"/>take of the viſible Ordinance of Circumci<g ref="char:EOLhyphen"/>ſion? And is this ſuch a priviledge which the Apoſtle, <hi>Acts</hi> 15.10. calls a yoke, that neither we nor our Fathers were able to bear, is this the priviledge thou mean<g ref="char:EOLhyphen"/>eſt?</p>
+               <p>
+                  <label>Object. 12.</label>
+                  <hi>12.</hi> But the Seed was in Covenant? God made a Covenant with <hi>Abraham</hi> and his Seed.</p>
+               <p>
+                  <label>I Anſwer.</label>
+What doſt thou mean by Covenant? doſt thou mean the Covenant that was made on Mount <hi>Sinai,</hi> or a Covenant of Works? doſt thou mean the Covenant of Grace, where<g ref="char:EOLhyphen"/>in
+<pb n="36" facs="tcp:30462:24"/>
+God promiſeth to be their God<g ref="char:punc">▪</g> and doſt thou make this Covenant of Grace to be Conditional? And doſt thou judge, that <hi>Iſhmael, Saul,</hi> and <hi>Jeroboam</hi> the ſon of <hi>Nebat,</hi> and <hi>Ahaz,</hi> and all they, were in the Covenant of Grace? or doſt thou judge they loſt their Intereſt in the Covenant of Grace, and ſo indeed make it a Covenant of Works? Therefore conſider, God did make a Covenant with <hi>Abraham</hi> and his natural Seed, to give them the Land of <hi>Ca<g ref="char:EOLhyphen"/>naan, Gen.</hi> 17.7, 8. but as to the Promiſe of Life and Salvation, this was made to <hi>A<g ref="char:EOLhyphen"/>braham</hi> and his ſpiritual Seed, <hi>Gal.</hi> 3.16. <hi>Now to</hi> Abraham <hi>and his Seed were the Pro<g ref="char:EOLhyphen"/>miſes made; he ſaith, not unto Seeds, as of many; but as of one, to thy Seed, which is Chriſt.</hi> If you will believe this Text, there's little difficulty in the Objection, <hi>Rom.</hi> 9.8. <hi>The Children of Promiſe are counted for the Seed.</hi>
+               </p>
+               <p>
+                  <label>Object. 13.</label>
+                  <hi>13.</hi> But they were ſo far in the Covenant, as to give them a Right to the Ordi<g ref="char:EOLhyphen"/>nance?</p>
+               <p>
+                  <label>I <hi>Anſwer.</hi>
+                  </label>
+Circumciſion was entail'd on <hi>Abraham</hi> and his Seed, and his Servants; but where is Baptiſm intailed, upon Believers natu<g ref="char:EOLhyphen"/>ral Seed?</p>
+               <p>
+                  <pb n="37" facs="tcp:30462:24"/>The Prieſthood by a Covenant was en<g ref="char:EOLhyphen"/>tailed on the Tribe of <hi>Levi</hi> and their Seed, as you may read, <hi>Joſh.</hi> 18.7. <hi>Num.</hi> 25.13. will you now entail the Miniſtry on Preachers and their natural Seed? But as to the point of Baptiſm, were there not many that came to be Baptized? and <hi>John</hi> ſaid, <hi>Think not to ſay you have</hi> Abraham <hi>for your Father,</hi> Mat. 3.9. clearly ſhewing that their Carnal Right was cut off by the Goſpel. Now <hi>the Axe is laid to the Root of the Tree, every Tree that bringeth not forth good fruit, is hewen down and caſt into the fire.</hi> And note further, <hi>Abraham</hi> had a word for to warrant his circumciſing his Seed; but where is there a word for Ba<g ref="char:EOLhyphen"/>ptizing Infants?</p>
+               <p>
+                  <label>Object. 14.</label>
+                  <hi>14.</hi> But Chriſt ſaid, ſuffer little Children to come to me, for of ſuch is the Kingdom of Heaven.</p>
+               <p>
+                  <label>I Anſwer.</label>
+The Text tells you plainly, they were not brought to be baptized, but that Chriſt might <hi>lay his hands on them, and pray for them, Mat.</hi> 19.13. <hi>Mark</hi> 10.16. Here's nothing of Baptiſm.</p>
+               <p>
+                  <label>Object. 15.</label>
+                  <hi>15.</hi> But <hi>'tis ſaid,</hi> Acts <hi>2.39.</hi> The Pro<g ref="char:EOLhyphen"/>miſe is to you and to your Children.</p>
+               <p>
+                  <pb n="38" facs="tcp:30462:25"/>
+                  <label>I Anſwer.</label>
+Do ſo much juſtice to thy own Soul <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to read the whole Text; and you ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> find, that it is ſaid, <hi>The Promiſe is to y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and to your Children, and to all that are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> far off, even as many as the Lord our G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſhall call:</hi> Here you ſee it is to ſuch as are called. Now if you ſay this word <hi>Call</hi> re<g ref="char:EOLhyphen"/>lates not to the Children, but to them that are afar off. I <hi>Anſwer,</hi> it muſt needs relate to the Children and their Parents, and all afar off, becauſe it is the Promiſe, <hi>ver.</hi> 16, 17. this is that which is ſpoken of by <hi>Joel</hi> the Prophet, I <hi>will pour out of my Spirit on all fleſh, on your Sons and Daugh<g ref="char:EOLhyphen"/>ters,</hi> Joel 2.28. <hi>on the Remnant whom the Lord ſhall call,</hi> ver. 32. Now if the Pro<g ref="char:EOLhyphen"/>miſe of the Spirit be to Children, though not called; then either the Promiſe doth fail; and that's a fearful thing to think; or elſe all the Children of Believers do partake of this glorious Spirit; but the contrary dayly experience ſhews, that many of Believers Children are Carnal, not having the Spirit; and it is fulfilld only to ſuch, whom the Lord our God ſhall call</p>
+               <p>
+                  <label>Object. 16.</label>
+                  <hi>16.</hi> But I have been Baptized in my Infan<g ref="char:EOLhyphen"/>cy therefore what need I be Baptized again?</p>
+               <p>
+                  <pb n="39" facs="tcp:30462:25"/>
+                  <label>I Anſwer.</label>
+As one ſaith of Marriage, It is not the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed that makes Marriage, for then forni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ation is Marriage, but a lawful conſent by Covenant, that makes Marriage. So I ſay of Baptiſm, it is not Water thrown on the face that makes Baptiſm; but it is a free conſent and ſubjection to Chriſt ac<g ref="char:EOLhyphen"/>cording to the Rule, that makes Baptiſm; Now when thou waſt an Infant thou gaveſt no conſent, thou canſt not tell of any ſuch thing but by report; thou knoweſt not when it was, thou hadſt no Faith in the Act. <hi>And what ever is not of Faith is ſin,</hi> ſo that thou art not yet baptized. Again, conſider what defects have been in thy In<g ref="char:EOLhyphen"/>fant-Baptiſm? Firſt, there was no Rule to baptize thee while an Infant. Then thou waſt not a right ſubject, for thou oughtſt to believe and be baptized: then thou waſt only ſprinkled, not buried in baptiſm, as Chriſt was and hath command<g ref="char:EOLhyphen"/>ed; Now wilt thou call that baptiſm which was only a Tradition received from thy Fore-Fathers, when the Lord Jeſus did ſhed his moſt precious blood to redeem thee from the Tradition of thy Fore-Fathers, 1 <hi>Pet.</hi> 1.18, 19?</p>
+               <p>
+                  <label>Object. 17.</label>
+                  <hi>17.</hi> But many lay ſo much ſtreſs on Ba<g ref="char:EOLhyphen"/>ptiſm,
+<pb n="40" facs="tcp:30462:26"/>
+as makes us more backward to it</p>
+               <p>
+                  <label>I Anſwer.</label>
+Is there more ſtreſs laid by any than Chriſt? who ſaid they rejected the Counc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of God againſt themſelves, not being bapti<g ref="char:EOLhyphen"/>zed, <hi>Luk.</hi> 7.29, 30. And is it not our duty, <hi>to contend for the faith once delivered to the Saints?</hi>
+               </p>
+               <p>
+                  <label>Object. 18.</label>
+                  <hi>18.</hi> But the Children of Believers are holy, therefore they ought to be baptized.</p>
+               <p>
+                  <label>I Anſwer.</label>
+As it is ſaid the Children are holy, ſo it is ſaid the unbelieving Husband is holy, or ſanctified by the believing Wife. This Ho<g ref="char:EOLhyphen"/>lineſs is wholly to the uſe of Marriage, for the Apoſtle is in that place, (1 <hi>Cor.</hi> 7.) ſpeaking of Marriage, and whether thoſe who have believed ſhould live with unbe<g ref="char:EOLhyphen"/>lieving Husbands, or put them away, as 1 <hi>Cor.</hi> 7.13. So that the Holineſs here ſpo<g ref="char:EOLhyphen"/>ken of, it is wholly to their uſe; it is ſaid, <hi>Zach.</hi> 14.20. <hi>There ſhall be Holineſs on the Horſes Bells, and every Pot in the Lords Houſe ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be Holy.</hi> Now do you think this was a ſufficient warrant to baptize Bells, as you ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> read they did in the Book of Martyrs? <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> being holy for the uſe of the By <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Sanctified by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ayer,</hi> 1 <hi>Tim.</hi> 3.4 5.
+<pb n="41" facs="tcp:30462:26"/>
+                  <hi>And to the Pure, all things are Pure, Tit.</hi> 1.15. That is, to their uſe: Thus Child<g ref="char:EOLhyphen"/>ren are holy, and unbelieving Husbands are ſanctified to their uſe; But if you think, Believers Children are inherently holy, doth not your experience tell you the con<g ref="char:EOLhyphen"/>trary? do not we ſee good Men have un<g ref="char:EOLhyphen"/>godly Children, and bad Men have holy Children? ſo that they are only holy for their uſe, they are not born in uncleanneſs.</p>
+               <p>
+                  <label>Object. 19.</label>
+                  <hi>19.</hi> When they were formerly circumciſed, Men of years were circumciſed; but after<g ref="char:EOLhyphen"/>wards Infants were circumciſed; ſo in the Goſpel, when Baptiſm was firſt adminiſtred, Men and Women were baptized, but after<g ref="char:EOLhyphen"/>wards Infants were Baptized.</p>
+               <p>
+                  <label>I Anſwer.</label>
+When God firſt commanded Circumci<g ref="char:EOLhyphen"/>ſion he commanded that it ſhould be admi<g ref="char:EOLhyphen"/>niſtred to Children, <hi>Gen.</hi> 17.10. <hi>every Man-child;</hi> but when Chriſt commanded Baptiſm, he commanded that perſons ſhould be taught, and that they ſhould believe and be baptized; and never gave a Command to baptize Children. Then conſider we have the Lives and Acts of the Apoſtles and Primitive Churches for divers years, and not one Infant baptized. <hi>Paul</hi> was converted ſometime after Chriſts Aſcenſi<g ref="char:EOLhyphen"/>on,
+<pb n="42" facs="tcp:30462:27"/>
+and was fourteen years in Chriſt, <hi>Cor.</hi> 12.2. In theſe fourteen years ſure ſome Children were born, yet not one ba<g ref="char:EOLunhyphen"/>ptized that we read of.</p>
+               <p>
+                  <label>Object. 20.</label>
+                  <hi>20.</hi> They were Heathens that were bapti<g ref="char:EOLhyphen"/>zed in the Apoſtles days.</p>
+               <p>
+                  <label>I Anſwer.</label>
+Was the Lord Jeſus a Heathen? he was baptized. The Eunuch a Worſhipper of the true God. <hi>Cornelius,</hi> a man whoſe Prayers and Alms came to God for a Memorial, were theſe Heathens? Nay, do not thoſe who baptize Infants, baptize Heathens? <hi>Eph.</hi> 2.3. <hi>We are the Children of wrath by Nature:</hi> It is you that plead for the bapti<g ref="char:EOLhyphen"/>zing Heathens, we plead for the baptizing Believers.</p>
+               <p>
+                  <label>Object. 21.</label>
+                  <hi>21.</hi> But <hi>Paul</hi> ſaith, <hi>1 Cor. 1.17.</hi> Chriſt ſent me not to baptize but to preach.</p>
+               <p>
+                  <label>I Anſwer.</label>
+That <hi>Paul</hi> did baptize, 1 <hi>Cor.</hi> 1.14, 15. He baptized <hi>Criſpus</hi> and <hi>Gaius,</hi> and the Houſhold of <hi>Stephanas,</hi> and divers others. Now what he did, he did by Commiſſion or Preſumption; but he did it not by Preſum<g ref="char:EOLhyphen"/>ption, therefore he did it by Commiſſion; he was ſent to preach. Baptiſm fell in as a part of his Preaching Office; <hi>Philip</hi> was
+<pb n="43" facs="tcp:30462:27"/>
+choſen a Deacon, yet he baptized the Eu<g ref="char:EOLhyphen"/>nuch, Baptiſm fell in as part of his work, <hi>Acts</hi> 8. ſo that he that is called to be a Preacher, needs no call to baptize, the other falls in as his work.</p>
+               <p>
+                  <label>Object. 22.</label>
+                  <hi>22.</hi> But there were three thouſand baptized in one day, how could all theſe be dipped in one day? they might be ſprinkled, but not dipped.</p>
+               <p>
+                  <label>I Anſwer.</label>
+They might well be dipped, for there were twelve Apoſtles, and ſeventy Diſci<g ref="char:EOLhyphen"/>ples, as <hi>Luke</hi> 10.1. that is eighty two; theſe might well baptize three thouſand in a day.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>
+                  <hi>CHAP. IX.</hi> Believers-Baptiſm and Infant-Baptiſm compared.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1. Believers Baptiſm hath a Command, <hi>Mat.</hi> 28.19, 20.</cell>
+                        <cell>
+                           <hi>1.</hi> Infant-Baptiſm hath not a Com<g ref="char:EOLhyphen"/>mand.</cell>
+                     </row>
+                     <row>
+                        <cell>2. Believers baptiſm hath many Exam<g ref="char:EOLhyphen"/>ples, <hi>Acts</hi> 8.12. <hi>cap.</hi> 2.37, 41, 42, <hi>&amp;c.</hi>
+                        </cell>
+                        <cell>
+                           <hi>2.</hi> Infant-baptiſm hath no Example.</cell>
+                     </row>
+                     <row>
+                        <cell>3. Believers baptiſm is from Heaven, <hi>Mat.</hi> 21.25.</cell>
+                        <cell>
+                           <hi>3.</hi> Infant-baptiſm is from Men.</cell>
+                     </row>
+                     <pb n="44" facs="tcp:30462:28"/>
+                     <row>
+                        <cell>4. Believers baptiſm is the Councel of God, <hi>Luk.</hi> 7.29.30</cell>
+                        <cell>
+                           <hi>4.</hi> Infant- baptiſm hath the Councel of Men.</cell>
+                     </row>
+                     <row>
+                        <cell>5. Believers baptiſm hath been Glori<g ref="char:EOLhyphen"/>ouſly ſealed, <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> 3.</cell>
+                        <cell>
+                           <hi>5.</hi> Infant-baptiſm ne<g ref="char:EOLhyphen"/>ver was ſealed by God.</cell>
+                     </row>
+                     <row>
+                        <cell>6. In believers ba<g ref="char:EOLhyphen"/>ptiſm, the perſon baptized acts faith.</cell>
+                        <cell>
+                           <hi>6.</hi> But in Infant-baptiſm, the Infant acts no faith.</cell>
+                     </row>
+                     <row>
+                        <cell>7. In believers ba<g ref="char:EOLhyphen"/>ptiſm the perſon ſubjects in acts of obedience.</cell>
+                        <cell>
+                           <hi>7.</hi> But in Infant-ba<g ref="char:EOLhyphen"/>ptiſm the Infant puts forth no Act of Obedience.</cell>
+                     </row>
+                     <row>
+                        <cell>8. In believers ba<g ref="char:EOLhyphen"/>ptiſm the perſon knows when he is baptized.</cell>
+                        <cell>
+                           <hi>8.</hi> But Infants know not any thing of their baptiſm.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Believers remem<g ref="char:EOLhyphen"/>ber when they were baptized.</cell>
+                        <cell>
+                           <hi>9.</hi> Infants remember not their baptiſm.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Believers are bu<g ref="char:EOLhyphen"/>ried with Chriſt by baptiſm, <hi>Rom.</hi> 6.4.</cell>
+                        <cell>
+                           <hi>10.</hi> Infants are not buried, they are on<g ref="char:EOLhyphen"/>ly ſprinkled.</cell>
+                     </row>
+                     <row>
+                        <cell>11. All believers that are baptized, are in the Covenant of Grace.</cell>
+                        <cell>
+                           <hi>11.</hi> All Infants ba<g ref="char:EOLhyphen"/>ptized are not in a Covenant of grace</cell>
+                     </row>
+                     <row>
+                        <cell>12. All believers ba<g ref="char:EOLhyphen"/>ptized receive re<g ref="char:EOLhyphen"/>miſſion
+<pb n="45" facs="tcp:30462:28"/>
+of ſins, <hi>Act</hi> 2.37.38.</cell>
+                        <cell>
+                           <hi>12.</hi> But all Infants baptized do not re<g ref="char:EOLhyphen"/>ceive
+<pb n="45" facs="tcp:30462:28"/>
+the remiſſion of ſins.</cell>
+                     </row>
+                     <row>
+                        <cell>13. God hath pro<g ref="char:EOLhyphen"/>miſed that all that believe and are ba<g ref="char:EOLhyphen"/>ptized, ſhall be ſa<g ref="char:EOLhyphen"/>ved, <hi>Mark</hi> 16.16.</cell>
+                        <cell>
+                           <hi>13.</hi> God hath not pro<g ref="char:EOLhyphen"/>miſed that all In<g ref="char:EOLhyphen"/>fants that are ba<g ref="char:EOLhyphen"/>ptized ſhall be ſa<g ref="char:EOLhyphen"/>ved.</cell>
+                     </row>
+                     <row>
+                        <cell>14. Believers rejoyce when they are ba<g ref="char:EOLhyphen"/>ptized, <hi>Act.</hi> 8.39. &amp; 16.34.</cell>
+                        <cell>
+                           <hi>14.</hi> Infants do not rejoyce, but uſually weep when they are ſprinkled.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Believers bap<g ref="char:EOLhyphen"/>tiſm hath the plain Word of GOD, <hi>Mat.</hi> 28.19.</cell>
+                        <cell>
+                           <hi>15.</hi> Infant-baptiſm hath human conſe<g ref="char:EOLhyphen"/>quences only.</cell>
+                     </row>
+                     <row>
+                        <cell>16. All the World may undeniably af<g ref="char:EOLhyphen"/>firm, that believers were baptized by the Apoſtles, <hi>Act.</hi> 8.12.</cell>
+                        <cell>
+                           <hi>16.</hi> But all the world cannot affirm that any Infant was ba<g ref="char:EOLhyphen"/>ptized by the A<g ref="char:EOLhyphen"/>poſtles.</cell>
+                     </row>
+                     <row>
+                        <cell>17. All thoſe who ba<g ref="char:EOLhyphen"/>ptiſe Infants, do confeſs believers were baptized.</cell>
+                        <cell>
+                           <hi>17.</hi> But all baptized believers do deny, that Infants were baptized.</cell>
+                     </row>
+                     <row>
+                        <cell>18. Believers bapti<g ref="char:EOLhyphen"/>zed, do lawfully partake of the Lords Supper.</cell>
+                        <cell>
+                           <hi>18.</hi> Infants baptized, do not lawfully par<g ref="char:EOLhyphen"/>take of the Lord<hi>'s</hi> Supper.</cell>
+                     </row>
+                     <row>
+                        <cell>19. All believers ba<g ref="char:EOLhyphen"/>ptized,
+<pb n="46" facs="tcp:30462:29"/>
+are living ſtones fit for Gods houſe, 1 <hi>Pet.</hi> 2.5.</cell>
+                        <cell>
+                           <hi>19.</hi> But all Infants
+<pb n="46" facs="tcp:30462:29"/>
+baptized, the living ſtones<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Gods Houſe.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Believers bapti<g ref="char:EOLhyphen"/>zed, build on Chriſt by their own faith.</cell>
+                        <cell>
+                           <hi>20.</hi> But ſuch as ba<g ref="char:EOLunhyphen"/>ptiſe Infants, build on anothers faith.</cell>
+                     </row>
+                     <row>
+                        <cell>21. Such as are ba<g ref="char:EOLhyphen"/>ptized on their own Faith, ſhall never periſh, <hi>Joh.</hi> 10.28.</cell>
+                        <cell>
+                           <hi>21.</hi> But ſuch as are baptized on ano<g ref="char:EOLhyphen"/>thers faith may pe<g ref="char:EOLhyphen"/>riſh.</cell>
+                     </row>
+                     <row>
+                        <cell>22. Believers bapti<g ref="char:EOLhyphen"/>zed are convert<g ref="char:EOLhyphen"/>ed, and ſhall never come into condem<g ref="char:EOLhyphen"/>nation, <hi>Joh.</hi> 5.24.</cell>
+                        <cell>
+                           <hi>22.</hi> But Infants ba<g ref="char:EOLhyphen"/>ptized are not con<g ref="char:EOLhyphen"/>verted, and many come into condem<g ref="char:EOLhyphen"/>nation.</cell>
+                     </row>
+                     <row>
+                        <cell>23. Believers bapti<g ref="char:EOLhyphen"/>zed, are not the Children of wrath, <hi>John</hi> 3.36.</cell>
+                        <cell>
+                           <hi>23.</hi> But Infants ba<g ref="char:EOLhyphen"/>ptized, <hi>Joh. 3.36.</hi> may be yet under wrath.</cell>
+                     </row>
+                     <row>
+                        <cell>24. Believers bapti<g ref="char:EOLhyphen"/>zed do know Chriſt to be precious, 1 <hi>Pet.</hi> 2.7.</cell>
+                        <cell>
+                           <hi>24.</hi> But Infants ba<g ref="char:EOLhyphen"/>ptized, do not know Chriſt to be preci<g ref="char:EOLhyphen"/>ous.</cell>
+                     </row>
+                     <row>
+                        <cell>25. Believers Love Chriſt, and keep his Command<g ref="char:EOLhyphen"/>ments, <hi>Joh.</hi> 14.15.</cell>
+                        <cell>
+                           <hi>25.</hi> But Infants ba<g ref="char:EOLhyphen"/>ptized do not love Chriſt and keep his Commandments.</cell>
+                     </row>
+                     <row>
+                        <cell>26. Believers bapti<g ref="char:EOLhyphen"/>zed, worſhip God in Spirit, and in
+<pb n="47" facs="tcp:30462:29"/>
+truth, &amp; ſuch God ſeeks to Worſhip him, <hi>Joh.</hi> 4.23, 24.</cell>
+                        <cell>
+                           <hi>26.</hi> But Infants do
+<pb n="47" facs="tcp:30462:29"/>
+not know what to Worſhip.</cell>
+                     </row>
+                     <row>
+                        <cell>27. Believers baptiſm muſt ſtand as long as God's Word doth ſtand, <hi>Mat.</hi> 5.18.</cell>
+                        <cell>
+                           <hi>27.</hi> Infant-baptiſm muſt fall, becauſe it hath not the Word of God.</cell>
+                     </row>
+                     <row>
+                        <cell>28. Believers bapti<g ref="char:EOLhyphen"/>zed may repel Sa<g ref="char:EOLunhyphen"/>tan as Chriſt did, ſaying, it is writ<g ref="char:EOLhyphen"/>ten, <hi>They believed and were baptized.</hi>
+                        </cell>
+                        <cell>
+                           <hi>28.</hi> But you cannot repel Satan, ſaying, It is written, <hi>Infants were baptiz'd;</hi> for it is not written.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div n="10" type="chapter">
+               <head>
+                  <hi>CHAP. X.</hi> Plain Scriptures concerning Baptiſm with<g ref="char:EOLhyphen"/>out any human conſequence from Mans Wiſdom.</head>
+               <q>
+                  <bibl>
+                     <hi>MAT</hi> 3.13.</bibl> Then cometh Jeſus to <hi>John</hi> to be baptized, <hi>ver.</hi> 15. And Jeſus ſaid, Suffer it to be ſo now, for thus it becometh us to fulfill all Righteouſneſs, <hi>ver.</hi> 16. And Jeſus when he was baptized went up ſtraightway out of the water.</q>
+               <q>
+                  <bibl>
+                     <hi>Mat.</hi> 21.25.</bibl> The Baptiſm of <hi>John,</hi> whence was it, from Heaven or of Men?
+<pb n="48" facs="tcp:30462:30"/>
+if we ſay from Heaven, he will ſay w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> did ye not believe in him?</q>
+               <q>
+                  <bibl>
+                     <hi>Luke</hi> 20.6.</bibl> But if we ſay of men, the people will ſtone us.</q>
+               <q>
+                  <bibl>
+                     <hi>Luke</hi> 7.29.</bibl> The Publicans juſtified God being baptized.</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 30.</bibl> But the Phariſees and Law<g ref="char:EOLunhyphen"/>yers rejected the Councel of God againſt themſelves not being baptized.</q>
+               <q>
+                  <bibl>
+                     <hi>Mat</hi> 28.19.</bibl> Go teach all Nations, ba<g ref="char:EOLhyphen"/>ptizing them in the Name of the Father, and of the Son, and of the Holy Ghoſt.</q>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 2.38.</bibl> Repent and be baptized e<g ref="char:EOLhyphen"/>very one of you in the Name of Jeſus Chriſt.</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 41.</bibl> Then they that gladly re<g ref="char:EOLhyphen"/>ceived his Word were baptized.</q>
+               <q>
+                  <bibl>
+                     <hi>Mark</hi> 16.16.</bibl> He that believeth and is baptized ſhall be ſaved.</q>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 8.12.</bibl> And when they believed they were baptized, both men and women.</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 36.</bibl> And the Eunuch ſaid, here is water, what doth hinder me to be ba<g ref="char:EOLhyphen"/>ptized?</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 37.</bibl> And <hi>Philip</hi> ſaid, if thou be<g ref="char:EOLhyphen"/>lieveſt thou mayſt.</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 38.</bibl> And they went both down in<g ref="char:EOLhyphen"/>to the water, both <hi>Philip</hi> and the Eunuch, and he baptized him.</q>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 9.18.</bibl> 
+                  <hi>Saul</hi> aroſe and was baptized.</q>
+               <q>
+                  <pb n="49" facs="tcp:30462:30"/>
+                  <bibl>
+                     <hi>John</hi> 3.22.</bibl> After theſe things came Jeſus and his diſciples into the Land of <hi>Judea,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd there he tarried and baptized.</q>
+               <q>
+                  <bibl>
+                     <hi>John</hi> 4.1.</bibl> Jeſus made and baptized <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore diſciples than <hi>John.</hi>
+               </q>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 10.47.</bibl> Can any man forbid water that theſe ſhould not be baptized, that have received the Holy Ghoſt as well as we?</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 48.</bibl> And he commanded them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o be baptized in the Name of the Lord.</q>
+               <q>
+                  <bibl>
+                     <hi>Acts.</hi> 18.8.</bibl> And <hi>Criſpus</hi> the chief Ru<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er of the Synagogue believed on the Lord with all his Houſe, and many of the <hi>Corin<g ref="char:EOLhyphen"/>thians</hi> hearing, believed and were baptiz<g ref="char:EOLhyphen"/>ed.</q>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 22.16.</bibl> And now why tarrieſt thou? ariſe and be baptiſed, and waſh away thy ſins, calling on the name of the Lord.</q>
+               <q>
+                  <bibl>
+                     <hi>Rom.</hi> 6.4.</bibl> We are buried with him by Baptiſm.</q>
+               <q>
+                  <bibl>
+                     <hi>Gal.</hi> 3.27.</bibl> As many as have been ba<g ref="char:EOLhyphen"/>ptized into Chriſt, have put on Chriſt.</q>
+               <q>
+                  <bibl>1 <hi>Pet.</hi> 3.21.</bibl> The like Figure where<g ref="char:EOLhyphen"/>unto baptiſm doth ſave us.</q>
+               <q>
+                  <bibl>1 <hi>Cor.</hi> 12.13.</bibl> By one ſpirit we are all baptized into one body.</q>
+               <q>
+                  <bibl>
+                     <hi>Acts</hi> 16.33.</bibl> And he took them the ſame hour of the night, and waſhed their ſtripes, and was baptized, he and all his ſtraightway.</q>
+               <q>
+                  <pb n="50" facs="tcp:30462:31"/>
+                  <bibl>
+                     <hi>Ver.</hi> 34.</bibl> He believing in God with his Houſe.</q>
+               <q>
+                  <bibl>
+                     <hi>Luke</hi> 3.21.</bibl> Jeſus being baptized, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Heavens were opened.</q>
+               <q>
+                  <bibl>
+                     <hi>Ver.</hi> 23.</bibl> And Jeſus himſelf being about thirty years of Age.</q>
+               <q>
+                  <bibl>
+                     <hi>John</hi> 3.23.</bibl> 
+                  <hi>John</hi> was baptizing in <hi>Ae<g ref="char:EOLhyphen"/>non</hi> near <hi>Salim,</hi> becauſe there was much water there.</q>
+            </div>
+            <div n="11" type="chapter">
+               <head>
+                  <hi>CHAP. XI.</hi> Conſiderations by way of Concluſion.</head>
+               <p n="1">1. COnſider that when ſouls are aſham'd, then God will ſhew them the Ordi<g ref="char:EOLhyphen"/>nances and forms of his Houſe, <hi>Ezek.</hi> 43 11. The Goſpel Church hath its forms.</p>
+               <p n="2">2. Conſider when God gives any ſoul a new heart, it is to fit him for Gods Ordi<g ref="char:EOLhyphen"/>nances, <hi>Ezek.</hi> 11 19, 20. <hi>I will give them a new ſpirit, and I will take away the heart of stone, and give them a heart of fleſh, that they may walk in my Statutes, and keep my Or<g ref="char:EOLhyphen"/>dinances and do them.</hi>
+               </p>
+               <p n="3">3. Conſider what a danger it is to reſiſt an Ordinance of God; read <hi>Rom.</hi> 13.2. <hi>Luke</hi> 7.29, 30. They rejected the Coun<g ref="char:EOLhyphen"/>cel of God, not being baptized</p>
+               <p n="4">
+                  <pb n="51" facs="tcp:30462:31"/>4. Conſider what Judgments have at<g ref="char:EOLhyphen"/>tended the changing of Gods Ordinances, <hi>Iſa.</hi> 24.1. <hi>Behold, the Lord maketh the Earth empty, and turneth it upſide down;</hi> there's a change, but why, <hi>ver.</hi> 5. <hi>They have changed the Ordinance;</hi> when Chriſt commands to <hi>Believe and be baptized;</hi> and men baptize Infants who do not believe whether this be a change of the Ordinance, judg ye?</p>
+               <p n="5">5. Conſider, what fell on <hi>Nadab</hi> and <hi>Abihu</hi> the ſons of <hi>Aaron.</hi> Lev. 10.1, 2. They offered what the Lord commanded not: it was not forbidden; but that's not enough, 'twas not commanded; Infant-Baptiſm is not forbidden, but it is what the Lord commanded not.</p>
+               <p n="6">6. Conſider if what thou didſt receive in thy Infancy was no Baptiſm, and thou haſt not been baptized ſince, then thou liveſt in the neglect of a great Goſpel Ordi<g ref="char:EOLhyphen"/>nance: wilt thou call that Obedience which was not thy Act, and had not thy conſent, nor thou knoweſt not of, nor canſt remem<g ref="char:EOLhyphen"/>ber when it was done, and thou hadſt no faith in? and wilt thou call that baptiſm that was not of thy obedience, but thy Pa<g ref="char:EOLhyphen"/>rents will?</p>
+               <p n="7">7. Conſider that the Ordinances muſt be kept as they were delivered, 1 <hi>Cor.</hi> 11.2.
+<pb n="52" facs="tcp:30462:32"/>
+But Baptiſm was delivered to Believer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and not to Infants. God did indeed deli<g ref="char:EOLhyphen"/>ver Circumciſion to Infants, but never d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>deliver Baptiſm to Infants.</p>
+               <p n="8">8. Conſider, that many who have n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been Baptized ſince they believed, do d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ny Baptiſm to their Children: Let m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ask ſuch, if their own Infant-baptiſm wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſufficient to them, if they do deny it t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Children? why do they reckon the own Infant-baptiſm ſufficient? — <hi>Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> long halt ye between two opinions?</hi>
+               </p>
+               <p n="9">9. Conſider, that it is without all doubt Believers were Baptized, <hi>Acts</hi> 8.12. The Baptizing of Infants (at the beſt) is by a doubt; Infant-baptiſm hath been oft diſputed, but when was Believers Baptiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſputed? It is in very words expre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>They believed and were Baptized.</hi> Now is not better to go in an undoubted way, the in a dark way?</p>
+               <p n="10">10. Conſider, there are multitudes Examples of Believers Baptiſm; ſee pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11. of this Book; but there's not one Ex<g ref="char:EOLunhyphen"/>ample of Infant-baptiſm.</p>
+               <p n="11">11. Conſider if the ſalvation of thy ſo didly upon this queſtion, Whether we Believers Baptized, or were Infants bapti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed? wouldſt thou not ſay, ſurely Belie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ers?</p>
+               <p n="12">
+                  <pb n="53" facs="tcp:30462:32"/>12. Conſider, as Birth-right gave a right to Circumciſion under the Law, ſo Birth-right gave right to the Prieſthood.</p>
+               <p>Now you would entail Baptiſm without a word to the Believers ſeed, why then will you not entail the Miniſtry unto the ſeed of Miniſters? Would it not be ſtrang Logick, to ſay, the Preachers ſeed under the Goſpel, have leſs priviledg than the Prieſt's under the Law?</p>
+               <p n="13">13. Conſider, that we are not to think of any above what is written, 1 <hi>Cor.</hi> 4.6. Now if Infant-baptiſm be not written as an Ordinance, do not judge it to be an Ordi<g ref="char:EOLhyphen"/>nance.</p>
+               <p n="14">14. Conſider that Chriſt was faithful in all his Houſe, <hi>Heb.</hi> 3.5, 6. If it had been his Fathers Will that Infants ſhould have been Baptized, ſurely he would have been ſo faithful as to have left us one word in his Bleſſed Scriptures.</p>
+               <p n="15">15. Conſider, <hi>Moſes</hi> the ſervant of the Lord did all according to the Pattern ſhew<g ref="char:EOLhyphen"/>ed in the Mount, <hi>Exod.</hi> 25.40. and ſhall not the ſervants of the Lord do all accord<g ref="char:EOLhyphen"/>ing to the Pattern he hath ſhewed to us in the New Teſtament? the Pattern left on record is, <hi>They believed and were Baptized,</hi> Acts 8.12.</p>
+               <p n="16">16. Conſider, whether thoſe who do ſo
+<pb n="54" facs="tcp:30462:33"/>
+depend on their conſequences without a plain Text, will grant Papiſts and others the ſame conſequences, for Altars, Surpli<g ref="char:EOLhyphen"/>ces, <hi>&amp;c.</hi> ſeeing all is to be done decent<g ref="char:EOLhyphen"/>ly; And they ſay, Surplices are decent, Railes about the Tables are decent, <hi>&amp;c?</hi>
+               </p>
+               <p n="17">17. Conſider, that ſeeing the Scripture is ſo exact, in ſetting down the ſeveral circumſtances of Perſons Baptized, <hi>Acts</hi> 16.13, 14. the time, <hi>the Sabbath,</hi> the place, <hi>by a River ſide;</hi> the Cuſtom, <hi>Pray<g ref="char:EOLhyphen"/>er was wont to be made;</hi> the Company, <hi>Wo<g ref="char:EOLhyphen"/>men;</hi> the Name, <hi>Lydia;</hi> the Trade, <hi>a Seller of Purple;</hi> place of abode, <hi>as the Ci<g ref="char:EOLhyphen"/>ty of</hi> Thyatira, her Religion, <hi>a Worſhip<g ref="char:EOLhyphen"/>per of God;</hi> her Action, <hi>She heard Gods Word; the Lord opened her heart:</hi> the In<g ref="char:EOLhyphen"/>ſtrument, <hi>words ſpoken by</hi> Paul. So <hi>Acts</hi> 16.27, 28, 29, 30, ſo many circumſtanc<g ref="char:EOLhyphen"/>es, but not one word in any place expreſ<g ref="char:EOLhyphen"/>ſed, that ever any Infant was Baptized; why ſhould it be left out, were it Gods Will it ſhould be done?</p>
+               <p n="18">18. Conſider, <hi>there is but one Law-giver who is able to ſave and to deſtroy,</hi> James 4.12. <hi>The Lord is our Judge, The Lord is our Law-giver,</hi> Iſa. 33.22. Now where hath this Lord given a Law for Baptizing In<g ref="char:EOLhyphen"/>fants? This one Law-giver hath not giv<g ref="char:EOLhyphen"/>en one Law for the Baptizing Infants.</p>
+               <p n="19">
+                  <pb n="55" facs="tcp:30462:33"/>19. Conſider, whether Baptizing In<g ref="char:EOLhyphen"/>fants, Godfathers, and Godmothers, the Croſs in Baptiſm, the Promiſes and Vows made for Children, were not all brought in by Humane Invention, at the ſame time or on the ſame Reaſons?</p>
+               <p n="20">20. Conſider, whether it be ſafe to ad<g ref="char:EOLhyphen"/>mit of Conſequences againſt an expreſs Rule? <hi>Mat.</hi> 28.19. <hi>Teach and Baptize.</hi>
+               </p>
+               <p n="21">21. Conſider, whether thoſe who Ba<g ref="char:EOLhyphen"/>ptize Infants, will not have it ſaid to them by the Lord one day? as in <hi>Iſa.</hi> 1.12. <hi>Who hath required theſe things at your hands?</hi>
+               </p>
+               <p n="22">22. Conſider, whether any of the Goſ<g ref="char:EOLhyphen"/>pel-Ordinances hath ſo many plain words as Believers Baptiſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</p>
+               <p n="23">23. Conſider, whether being Baptized be not a juſtifying God, and on thy part thou not being Baptized, doſt not reject the Councel of God? <hi>Luke</hi> 7.29, 30.</p>
+               <p n="24">24. Conſider, whether ſuch as hold In<g ref="char:EOLhyphen"/>fant-baptiſm do not Preach Baptiſm to be a Sign of Regeneration, and whether all or any Infants Baptized are Regenerat<g ref="char:EOLhyphen"/>ed?</p>
+               <p n="25">25. Conſider, whether thoſe who have not reſpect to all Gods commands will not one day be aſhamed? <hi>Pſal.</hi> 119.6.</p>
+               <p n="26">26. Conſider, whether <hi>Abraham</hi> durſt
+<pb n="56" facs="tcp:30462:34"/>
+circumciſe his child without a word of Command, then how dareſt thou Baptize a child without a word?</p>
+               <p n="27">27. Conſider, whether we are not to preſs after the purity of Ordinances, and whether thoſe Ordinances which have the expreſs Rule, are not moſt Pure?</p>
+               <p n="28">28. Conſider, whether they and only they ſhall not have the <hi>Well-done</hi> at Chriſt's coming, who have done what he hath commanded, and as he hath command<g ref="char:EOLhyphen"/>ed?</p>
+               <q>Now I beſeech thee to conſider what hath been ſaid in this matter; and the glorious God of Truth give thee the Spirit of Truth, which may lead thee into all Truth, and may build thee up, and give thee an inheritance among them that are ſanctified? and as in ſincerity, with unfeigned love to God and thy ſoul theſe things have been written: So the very God and Father of our Lord Je<g ref="char:EOLhyphen"/>us, ſanctifie thee throughout, in body, ſoul and ſpirit, and give thee a heart to ſearch whether theſe things be ſo.</q>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb n="57" facs="tcp:30462:34"/>
+            <head>An APPENDIX, containing other Objections of the <hi>Paedo-Baptiſts,</hi> with Anſwers there<g ref="char:EOLhyphen"/>unto, By another Hand.</head>
+            <p>
+               <label>Object. 1.</label>
+1. INfants of Believers ought to be Baptiz<g ref="char:EOLhyphen"/>ed, becauſe the Natural Seed of Be<g ref="char:EOLhyphen"/>lievers are the Spiritual Seed of <hi>Abraham.</hi>
+            </p>
+            <p>
+               <label>I Anſwer.</label>
+This is contrary to <hi>Rom.</hi> 9.6, 7, 8. <hi>For they are not all</hi> Iſrael, <hi>which are of</hi> Iſrael; <hi>neither becauſe they are the ſeed of</hi> Abra<g ref="char:EOLhyphen"/>ham, <hi>are they all</hi> Children: <hi>but in</hi> Iſaac <hi>ſhall thy</hi> Seed <hi>be called; that is, they which are the</hi> Children <hi>of the</hi> Fleſh; <hi>theſe are not the</hi> Children <hi>of</hi> God: <hi>but the</hi> Chilren <hi>of the</hi> Promiſe <hi>are counted for the</hi> Seed. And <hi>Gal.</hi> 3.7, 26, 29. <hi>They which are of</hi> Faith, <hi>the ſame are the</hi> Children <hi>of</hi> Abraham. <hi>Ye are</hi> all <hi>the</hi> Children <hi>of</hi> God <hi>by</hi> Faith <hi>in</hi> Chriſt Jeſus: <hi>And if ye be</hi> Chriſt's, <hi>then are ye</hi> Abraham's <hi>Seed, and</hi> Heirs <hi>accord<g ref="char:EOLhyphen"/>ing
+<pb n="58" facs="tcp:30462:35"/>
+to the</hi> Promiſe. The Sum of the A<g ref="char:EOLhyphen"/>poſtles Argument is, that, the <hi>Children of the Fleſh,</hi> or Abraham's <hi>Natural Seed</hi> are not the <hi>Children of the Promiſe:</hi> but who<g ref="char:EOLhyphen"/>ſoever believe, whether Jew or Gentile, they are Abraham's <hi>ſpiritual ſeed,</hi> and none other.</p>
+            <p>
+               <label>Object. 2.</label>
+               <hi>2.</hi> But to <hi>Abraham</hi> and his Seed were the Promiſes made, <hi>Gal. 3.16.</hi>
+            </p>
+            <p>
+               <label>I Anſwer.</label>
+The new Covenant promiſes were made to <hi>Abraham</hi> and his <hi>ſpiritual ſeed,</hi> that is, <hi>Believers;</hi> for <hi>they are the children of God, and Heirs according to the promiſe.</hi> There<g ref="char:EOLhyphen"/>fore ſaith the Apoſtle, <hi>He ſaid not, and to ſeeds, as of many, but as of one, and to thy ſeed, which is Chriſt, Gal.</hi> 3.16. Many Temporal promiſes were made to all the ſeed of <hi>Abraham,</hi> natural and ſpiritual; but his ſpiritual ſeed only, that is, Believers, are intitled to the promiſes of the new Co<g ref="char:EOLhyphen"/>venant. For thoſe promiſes being made to Chriſt, namely, to Chriſt firſt, and then to all that are in Chriſt, none can have an Intereſt in them, but as they are conſider<g ref="char:EOLhyphen"/>ed in him, becauſe he is the great point or
+<pb n="59" facs="tcp:30462:35"/>
+centre of the promiſes, in whom they me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and are eſtabliſhed.</p>
+            <p>
+               <label>Object. 3.</label>
+               <hi>3.</hi> But the Infants of Believers are to be baptized, becauſe they have Habitual Faith.</p>
+            <p>
+               <label>I Anſwer.</label>
+If by <hi>Habitual Faith</hi> our Adverſarys un<g ref="char:EOLhyphen"/>derſtand an <hi>Infuſed Habit of Believing,</hi> and that all the Infants of Believers have this <hi>Infuſed Habit,</hi> then let them produce ſome Argument either from plain Scripture, good Conſequence or rectified Reaſon for their Opinion. For to tell us of <hi>Habitual Faith</hi> in Infants, without any manner of Proof, either <hi>Scriptural</hi> or <hi>Philoſophical</hi> is meer begging of the Queſtion. But if by <hi>Habitual Faith</hi> they mean a Potentiality in the ſoul to believe, this will no more quali<g ref="char:EOLhyphen"/>fy their Infants for Baptiſm, than the <hi>In<g ref="char:EOLhyphen"/>fants of Heathens;</hi> becauſe there may be a Potentiality in the one, as well as the other to believe. And ſeeing it is but a Potenti<g ref="char:EOLhyphen"/>ality they ſpeak of, I demand how they come to know that their Infants have this Power? is it by Revelation, or by Obſerva<g ref="char:EOLhyphen"/>tion? If by Revelation, then ſurely they
+<pb facs="tcp:30462:36"/>
+have ſome Text for it? If by Obſervation, then their Infants do demonſtrate it by ſome Act or other of Believing? but if neither of theſe ways, then not at all.</p>
+            <p>Further, we may not Baptize <hi>Infants</hi> upon a meer ſuppoſed power of believing, becauſe a bare ſuppoſition or Preſumption, is a groundleſs bottom to go upon: For the Scriptures do no where countenance ſuch a practice. We do indeed baptize <hi>Grown Perſons</hi> upon preſumption that they are Believers, they making to us a profeſ<g ref="char:EOLhyphen"/>ſion of their Faith in Chriſt, and giving Te<g ref="char:EOLhyphen"/>ſtimonials of amendment in their Lives; but <hi>Infants</hi> being not capable of profeſſing <hi>Faith in Chriſt,</hi> or teſtifying of <hi>Repen<g ref="char:EOLhyphen"/>tance from D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad</hi> Works, we muſt not baptize them upon a ſuppoſition, that, as <hi>Believers Children,</hi> they have a potentia<g ref="char:EOLhyphen"/>lity to believe, which others have not.</p>
+            <p>
+               <label>Object. 4.</label>
+Infants of Believers are capable of having the Seal of the Covenant of Grace, which is Baptiſm, applyed unto them.</p>
+            <p>
+               <label>I Anſwer.</label>
+Baptiſm is no <hi>Seal</hi> of the <hi>Covenant of
+<pb facs="tcp:30462:36"/>
+Grace.</hi> Chriſt is the <hi>Great Bleſſing</hi> of the <hi>Covenant,</hi> and the Holy Spirit <hi>Sealeth him</hi> to the Souls of the Faithful. <hi>In whom after that ye believed, ye were ſealed with the Holy Spirit of promiſe, Eph.</hi> 1.13. <hi>And grieve not the holy ſpirit, whereby ye are ſealed to the Day of Redemption,</hi> 4.30. And as the Ho<g ref="char:EOLhyphen"/>ly Spirit ſealeth Chriſt to the Soul, ſo Faith the fruit thereof, ſealeth the Soul to Chriſt <hi>He that hath received his Teſtimony, hath ſet to his Seal that God is true, John</hi> 3.33. But granting for Argument ſake, that Ba<g ref="char:EOLhyphen"/>piſm is a Seal of the Covenant of Grace, how come Infants to be capable of it? Is there any Word of God in the New Te<g ref="char:EOLhyphen"/>ſtament for the Baptizing of them? There is none. How then are they capable of Baptiſm? Why, the <hi>Deviſers of Will Worſhip</hi> have created them a Title to it againſt the <hi>Expreſs Revelation</hi> of God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:30462:37"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lately Printed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Will. Marſhal <hi>at the Bible i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Newgate-ſtreet.</head>
+            <list>
+               <item>MR. <hi>Bunyans</hi> Works, Printed in Folio, price Bound <hi>14 s.</hi>
+               </item>
+               <item>Mr. <hi>Knowls</hi> his Expoſition on the whole Book of the Revelations, <hi>price bound 2</hi> s. <hi>6</hi> d.</item>
+               <item>Mr. <hi>Collin</hi>'s Vindication of Believ<g ref="char:EOLhyphen"/>ers Baptiſm, <hi>price 4</hi> d.</item>
+               <item>
+                  <hi>How</hi>'s Spiritual Teaching, <hi>price 6</hi> d.</item>
+               <item>Mr. <hi>Keeches</hi> Childs Delight, con<g ref="char:EOLhyphen"/>taining a Scripture Catechiſm, wherein all the chief Principles of Chriſtian Re<g ref="char:EOLhyphen"/>ligion are clearly (though briefly) o<g ref="char:EOLhyphen"/>pened, neceſſary to eſtabliſh young Peo<g ref="char:EOLhyphen"/>ple in Gods Truths, in Oppoſition to Popery in perillous Times; together with many other things, both pleaſant and uſeful, for the Chriſtian Education of Youth; with Letters to Parents: Adorned with ſeveral Copper Cuts, teaching to Spell, Read, and caſting Accounts; fitted for the uſe of Schools, and very uſeful for all Families, <hi>price bound 6</hi> d.</item>
+            </list>
+            <pb facs="tcp:30462:37"/>
+         </div>
+      </back>
+   </text>
+</TEI>
